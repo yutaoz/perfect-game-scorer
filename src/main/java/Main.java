@@ -18,14 +18,14 @@ public class Main {
 
         while (scan.hasNextLine()) {
             line = scan.nextLine();
-            StringTokenizer st = new StringTokenizer(line);
+            StringTokenizer st = new StringTokenizer(line, ",");
             boolean done = false;
 
             while (st.hasMoreTokens() && !done) { // for each word in the line, check if it matches tag, if so add the score to total
                 String word = st.nextToken();
                 if (word.equals(tag)) {
                     count++;
-                    total += Double.parseDouble(line.substring(0,3)); // add the score given (first 3 characters) to total
+                    total += Double.parseDouble(line.substring(0,4)); // add the score given (first 3 characters) to total
                     done = true;
                 }
             }
