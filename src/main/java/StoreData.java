@@ -15,7 +15,7 @@ public class StoreData {
         client.getOptions().setJavaScriptEnabled(false);
         java.util.logging.Logger.getLogger("com.gargoylesoftware").setLevel(Level.OFF);
 
-        File file = new File("src\\main\\resources\\data.txt");
+        File file = new File("src\\main\\resources\\data1.txt");
         PrintWriter writer = new PrintWriter(file);
 
         String url = "https://steam250.com/top250";

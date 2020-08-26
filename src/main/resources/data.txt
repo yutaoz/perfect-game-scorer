@@ -1,250 +1,187 @@
-8.80,208851,tag1
-8.80,580913
-8.79,405964 
-8.74,86849 
-8.73,264959 
-8.73,334743 
-8.71,380504 
-8.71,111977 
-8.70,82364 
-8.69,75009 
-8.68,164642 
-8.68,596159 
-8.68,116641 
-8.66,38133 
-8.66,76660 
-8.64,55444 
-8.63,106643 
-8.63,139621 
-8.62,75202 
-8.61,31750 
-8.61,26576 
-8.61,204267 
-8.60,53367 
-8.60,56073 
-8.60,24201 
-8.60,57103 
-8.59,166696 
-8.59,108124 
-8.59,43091 
-8.59,141183 
-8.59,37468 
-8.59,80028 
-8.58,52840 
-8.58,165541 
-8.58,47691 
-8.57,131463 
-8.56,24310 
-8.55,103113 
-8.55,51392 
-8.55,21612 
-8.55,24059 
-8.55,15411 
-8.55,16825 
-8.55,110262 
-8.55,11763 
-8.55,39243 
-8.55,58357 
-8.54,98415 
-8.54,15799 
-8.53,50298 
-8.53,104097 
-8.52,137149 
-8.52,60834 
-8.52,10313 
-8.52,50558 
-8.51,68437 
-8.51,50764 
-8.51,54981 
-8.51,20063 
-8.51,9339 
-8.50,59351 
-8.50,696126 
-8.50,287647 
-8.50,5030 
-8.50,38828 
-8.50,40330 
-8.50,36954 
-8.49,14217 
-8.49,32489 
-8.49,55947 
-8.49,21969 
-8.49,50847 
-8.49,101332 
-8.49,4586 
-8.48,48814 
-8.48,11168 
-8.48,16586 
-8.48,26436 
-8.48,82513 
-8.48,3859 
-8.48,10100 
-8.48,9531 
-8.48,8088 
-8.47,184338 
-8.47,18267 
-8.47,35372 
-8.46,8014 
-8.46,8683 
-8.46,15544 
-8.46,48014 
-8.46,127793 
-8.46,11447 
-8.46,17121 
-8.46,31717 
-8.46,7712 
-8.45,26601 
-8.45,25070 
-8.45,59331 
-8.45,60281 
-8.45,23103 
-8.45,10252 
-8.44,50028 
-8.44,27661 
-8.44,4368 
-8.44,21354 
-8.44,39683 
-8.44,12470 
-8.44,201236 
-8.44,32050 
-8.44,43555 
-8.44,9598 
-8.43,91683 
-8.43,7139 
-8.43,3649 
-8.43,45650 
-8.43,18879 
-8.43,8460 
-8.43,26144 
-8.42,4289 
-8.42,18667 
-8.42,33607 
-8.42,3807 
-8.42,34708 
-8.42,19526 
-8.42,2750 
-8.42,27997 
-8.42,10170 
-8.42,36464 
-8.41,23285 
-8.41,2970 
-8.41,12526 
-8.41,19191 
-8.41,23363 
-8.41,23371 
-8.41,62772 
-8.41,15030 
-8.40,9723 
-8.40,99475 
-8.40,7703 
-8.40,33644 
-8.40,6883 
-8.40,2859 
-8.40,3719 
-8.40,46744 
-8.40,21975 
-8.40,43894 
-8.39,20433 
-8.39,16945 
-8.39,4175 
-8.39,7768 
-8.39,12988 
-8.39,22287 
-8.39,105297 
-8.39,233298 
-8.39,35046 
-8.39,9742 
-8.38,5234 
-8.38,18880 
-8.38,7752 
-8.38,17885 
-8.38,3279 
-8.38,16536 
-8.38,24000 
-8.38,24000 
-8.38,7588 
-8.38,4974 
-8.37,11834 
-8.37,204874 
-8.37,18311 
-8.37,8039 
-8.37,35884 
-8.37,44136 
-8.37,17554 
-8.37,7784 
-8.37,2444 
-8.37,14959 
-8.37,1904 
-8.37,5832 
-8.36,7503 
-8.36,4278 
-8.36,7104 
-8.36,15293 
-8.36,3389 
-8.35,3421 
-8.35,6614 
-8.35,6692 
-8.35,27190 
-8.35,17864 
-8.35,139651 
-8.35,16711 
-8.35,25797 
-8.35,5586 
-8.34,10501 
-8.34,11589 
-8.34,9413 
-8.34,83221 
-8.34,4163 
-8.34,143686 
-8.34,4053 
-8.34,6663 
-8.34,6079 
-8.34,4874 
-8.34,7793 
-8.33,78767 
-8.33,5393 
-8.33,9661 
-8.33,15848 
-8.33,14129 
-8.33,2152 
-8.33,10020 
-8.33,7588 
-8.33,2810 
-8.33,25106 
-8.33,2021 
-8.32,3710 
-8.32,4663 
-8.32,2596 
-8.32,6404 
-8.32,19240 
-8.32,3663 
-8.32,22364 
-8.32,1411 
-8.32,34881 
-8.32,9089 
-8.32,36646 
-8.32,5896 
-8.32,10796 
-8.32,21562 
-8.32,3163 
-8.32,3276 
-8.32,11412 
-8.32,14053 
-8.31,9104 
-8.31,1408 
-8.31,2167 
-8.31,1399 
-8.31,23401 
-8.31,2766 
-8.31,3013 
-8.30,3397 
-8.30,25925 
-8.30,2801 
-8.30,34660 
-8.30,2514 
-8.30,14213 
-8.30,4879 
-8.30,16174 
-8.30,1512 
-8.30,4211 
-8.30,15717,tag1
+8.80,208851,Platformer,Dark Humor,Puzzle Platformer,First-Person,Story Rich,3D Platformer,Female Protagonist,Action-Adventure,Puzzle,Funny,FPS,Action,Physics,Level Editor,Co-op,Sci-fi,Science,Atmospheric,Comedy,Adventure
+8.80,580913,Open World,Sandbox,Survival,2D,Adventure,Multiplayer,Crafting ,Building,Pixel Graphics,Exploration,Co-op,Indie,Action,Online Co-Op,RPG,Singleplayer,Platformer,Replay Value,Atmospheric
+8.79,405964,Open World,RPG,Story Rich,Atmospheric,Mature,Fantasy,Adventure,Singleplayer,Choices Matter,Nudity,Great Soundtrack,Third Person,Action,Medieval,Multiple Endings,Action RPG,Dark Fantasy,Magic,Dark,Sandbox
+8.74,86849,Automation,Base Building,Resource Management,Sandbox,Crafting,Strategy,Multiplayer,Survival,Management,Open World,Casual,Co-op,2D,Building,Pixel Graphics,Moddable,City Builder,Singleplayer,Simulation,Trains
+8.73,264959,Farming Sim,Life Sim,RPG,Pixel Graphics,Agriculture,Simulation,Relaxing,Multiplayer,Crafting,Sandbox,Indie,Building,Singleplayer,Casual,Open World,Great Soundtrack,2D,Cute,Dating Sim
+8.73,334743,Simulation,Driving,Automobile Sim,Open World,Realistic,Relaxing,Singleplayer,Moddable,Exploration,First-Person,Economy,Atmospheric,Adventure,Indie,Management,Casual,TrackIR,Racing,Sandbox,RPG
+8.71,380504,Zombies,Co-op,FPS,Multiplayer,Shooter,Action,Online Co-Op,Survival,Horror,First-Person,Gore,Team-Based,Survival Horror,Moddable,Post-apocalyptic,Singleplayer,Adventure,Local Co-Op,Replay Value,Tactical
+8.71,111977,Action Roguelike,Roguelike,Indie,Replay Value,Difficult,Pixel Graphics,Dungeon Crawler,Great Soundtrack,Singleplayer,Dark,Remake,2D,Local Co-Op,Gore,Procedural Generation,Roguelite,Atmospheric,Action,Horror,Co-op
+8.70,82364,Colony Sim,Base Building,Survival,Strategy,Sandbox,Management,Building,Simulation,Singleplayer,Open World,Sci-fi,Crafting,Moddable,2D,Indie,Great Soundtrack,Atmospheric,Space,Action,Early Access
+8.69,75009,Puzzle,Puzzle Platformer,3D Platformer,First-Person,Singleplayer,Sci-fi,Comedy,Female Protagonist,Action,Funny,Physics,Story Rich,Platformer,Classic,Science,FPS,Atmospheric,Short,Adventure,Dark Humor
+8.68,164642,Action,FPS,Multiplayer,Shooter,Classic,Team-Based,First-Person,Competitive,Tactical,1990's,eSports,PvP,Old School,Military,Strategy,Survival,Score Attack,1980s,Assassin,Violent
+8.68,596159,Sandbox,Multiplayer,Funny,Moddable,Building,Comedy,Co-op,Mod,First-Person,Simulation,Physics,Online Co-Op,FPS,Singleplayer,Action,Shooter,Animation & Modeling,Indie,Massively Multiplayer,Adventure
+8.68,116641,Medieval,RPG,Open World,Strategy,Sandbox,Action,Multiplayer,Moddable,Military,Adventure,Horses,Singleplayer,Realistic,First-Person,Historical,Third Person,Simulation,Hack and Slash,Fantasy,Indie
+8.66,38133,VR,FPS,Story Rich,Shooter,Horror,Female Protagonist,First-Person,Action,Zombies,Sci-fi,Atmospheric,Beautiful,Psychological Horror,Singleplayer,Adventure,Aliens,Futuristic,Memes,Great Soundtrack,Gore
+8.66,76660,Roguelike Deckbuilder,Card Battler,Card Game,Roguelike,Deckbuilding,Turn-Based,Strategy,Singleplayer,Roguelite,Replay Value,Indie,Difficult,Dungeon Crawler,RPG,Mouse only,Great Soundtrack,2D,Procedural Generation,Fantasy
+8.64,55444,Free to Play,Cute,Demons,Puzzle,Indie,Anime,Great Soundtrack,2D,Singleplayer,Comedy,Short,Adventure,Sexual Content,Difficult,Dating Sim,Rhythm,Funny,Mature,Visual Novel,Hentai
+8.63,106643,FPS,Action,Sci-fi,Classic,Singleplayer,Story Rich,Shooter,First-Person,Adventure,Dystopian,Atmospheric,Zombies,Silent Protagonist,Physics,Aliens,Great Soundtrack,Puzzle,Multiplayer,Horror,Moddable
+8.63,139621,Psychological Horror,Anime,Visual Novel,Free to Play,Horror,Cute,Dating Sim,Dark,Story Rich,Romance,Singleplayer,Great Soundtrack,Gore,Violent,Indie,Memes,First-Person,Sexual Content,Casual,Adventure
+8.62,75202,Zombies,Survival Horror,Horror,Remake,Singleplayer,Third Person,Gore,Action,Atmospheric,Violent,Puzzle,Story Rich,Classic,Survival,Dark,Female Protagonist,Multiplayer,Adventure,Difficult,Shooter
+8.61,31750,Cute,3D Platformer,Collectathon,Great Soundtrack,Female Protagonist,Adventure,Indie,Platformer,Funny,Exploration,Colorful,Third Person,Singleplayer,Open World,Comedy,Moddable,Co-op,Family Friendly,Action
+8.61,26576,Platformer,Pixel Graphics,Action,Great Soundtrack,Cyberpunk,Story Rich,2D Platformer,Indie,2D,Violent,Hack and Slash,Difficult,Singleplayer,Fast-Paced,Time Manipulation,Gore,Retro,Ninja,Noir,Sci-fi
+8.61,204267,Open World,Survival,Multiplayer,Co-op,Adventure,Crafting,Online Co-Op,Sandbox,Difficult,Indie,2D,Funny,Atmospheric,Survival Horror,Strategy,Singleplayer,Horror,Action,Simulation
+8.60,53367,Sexual Content,Hentai,Nudity,Mature,Anime,NSFW,Match 3,Female Protagonist,FPS,Visual Novel,RPG,Dating Sim,Singleplayer,Cute,Story Rich,Puzzle,Adventure,Indie,JRPG,Casual
+8.60,56073,Great Soundtrack,Action,Violent,Indie,Top-Down,1980s,Fast-Paced,Pixel Graphics,Gore,Psychedelic,Retro,Difficult,Singleplayer,Surreal,Shooter,2D,Atmospheric,Addictive,Top-Down Shooter,Music
+8.60,24201,Action Roguelike,Action,Indie,RPG,Roguelite,Hack and Slash,Dungeon Crawler,Roguelike,Singleplayer,Great Soundtrack,Early Access,Mythology,Replay Value,Story Rich,Action RPG,Isometric,Hand-drawn,Atmospheric,Difficult,Perma Death
+8.60,57103,Comedy,Co-op,Funny,Platformer,Multiplayer,Local Co-Op,Adventure,Indie,2D,Action,Great Soundtrack,Online Co-Op,Cats,Casual,Puzzle,Level Editor,Local Multiplayer,Singleplayer,Difficult,Team-Based
+8.59,166696,Adventure,Action,Female Protagonist,Third Person,Lara Croft,Singleplayer,Third-Person Shooter,Story Rich,Multiplayer,Exploration,Quick-Time Events,Action-Adventure,Atmospheric,Shooter,Stealth,Puzzle,Cinematic,Platformer,RPG,Reboot
+8.59,108124,Metroidvania,Souls-like,Platformer,Great Soundtrack,Difficult,2D,Indie,Atmospheric,Exploration,Singleplayer,Adventure,Story Rich,Hand-drawn,Action,Dark Fantasy,Multiple Endings,Cute,Open World,Controller,Side Scroller
+8.59,43091,RPG,Comedy,Adventure,Funny,Turn-Based,Dark Humor,Singleplayer,Action,Mature,2D,Satire,Nudity,Cartoon,Open World,Story Rich,Fantasy,Epic,Turn-Based Strategy,Zombies,JRPG
+8.59,141183,Story Rich,Choices Matter,Great Soundtrack,Female Protagonist,Time Travel,Atmospheric,Episodic,Singleplayer,Adventure,Time Manipulation,Multiple Endings,Mystery,Third Person,Point & Click,Indie,Walking Simulator,Casual,Action,Memes,LGBTQ+
+8.59,37468,Simulation,Funny,Sandbox,War,Strategy,Singleplayer,Action,Physics,Comedy,Medieval,Indie,Casual,Memes,Adventure,Realistic,Difficult,Fighting,1980s,Family Friendly
+8.59,80028,Survival,Open World,Crafting,Adventure,Indie,Singleplayer,Perma Death,Exploration,Multiplayer,Roguelike,Replay Value,Moddable,Simulation,Difficult,2D,Top-Down,Survival Horror,Horror
+8.58,52840,Stealth,First-Person,Action,Steampunk,Assassin,Singleplayer,Atmospheric,Story Rich,Adventure,Multiple Endings,,Magic,Dystopian,FPS,RPG,Replay Value,Fantasy,Open World,Immersive Sim,Shooter
+8.58,165541,Turn-Based Strategy,Strategy,Turn-Based,Multiplayer,Historical,4X,Addictive,Singleplayer,Hex Grid,Grand Strategy,Replay Value,Co-op,Tactical,Economy,Diplomacy,Moddable,Simulation,Classic,Great Soundtrack,Touch-Friendly
+8.58,47691,Cute,Exploration,Adventure,Singleplayer,First-Person,Colorful,Open World,Funny,Simulation,Sandbox,Casual,Fantasy,Management,Indie,Great Soundtrack,Family Friendly,Female Protagonist,Action,FPS
+8.57,13146,Great Soundtrack,Story Rich,Choices Matter,Funny,Multiple Endings,Pixel Graphics,RPG,Singleplayer,Indie,Comedy,2D,Replay Value,Cute,Bullet Hell,Memes,Retro,Dark,Psychological Horror,Dating Sim,Horror
+8.56,24310,Precision Platformer,Platformer,Great Soundtrack,Difficult,Pixel Graphics,Indie,2D Platformer,Female Protagonist,2D,Adventure,Singleplayer,Story Rich,Cute,Action,Puzzle Platformer,Atmospheric,Retro,Side Scroller,Exploration,Funny
+8.55,103113,Open World,RPG,Post-apocalyptic,Singleplayer,Moddable,Exploration,First-Person,Action,Story Rich,Adventure,Sci-fi,FPS,Atmospheric,Western,Action RPG,Survival,Sandbox,Character Customization,Shooter,Third Person
+8.55,51392,Zombies,Adventure,Story Rich,Point & Click,Episodic,Singleplayer,Choices Matter,Drama,Horror,Emotional,Mature,Atmospheric,Choose Your Own Adventure,Comic Book,Post-apocalyptic,Survival,Quick-Time Events,Gore,Action,Third Person
+8.55,21612,Cyberpunk 854 Visual Novel 738 Pixel Graphics 737 LGBTQ+ 733 Dystopian 733 Story Rich 728 Simulation 718 Point & Click 712 Choices Matter 711 Female Protagonist 701 Memes 695 Adventure 688 Casual 688 Transhumanism 674 Life Sim 670 2D 652 Anime 637 Cute 621 Funny 614 Sci-fi 603
+8.55,24059,Adventure 949 Detective 844 Story Rich 778 Episodic 726 Point & Click 695 Noir 625 Mature 606 Comic Book 476 Choose Your Own Adventure 465 Singleplayer 461 Atmospheric 429 Mystery 401 Dark 315 Cinematic 315 Well-Written 238 Fantasy 220 Quick-Time Events 176 Great Soundtrack 164 Nudity 153 Action 147
+8.55,15411,Action 372 2D Fighter 359 Fast-Paced 338 Indie 266 Beat 'em up 257 Fighting 227 Singleplayer 196 Addictive 184 Martial Arts 153 2D 152 Casual 136 Difficult 88 Arcade 86 Great Soundtrack 75 Epic 71 Rhythm 70 Mouse only 66 Blood 43 Gore 39 Funny 34
+8.55,16825,Story Rich 732 Pixel Graphics 647 Great Soundtrack 573 Indie 550 Cute 537 Atmospheric 528 Choices Matter 474 Adventure 453 Singleplayer 446 Puzzle 440 Multiple Endings 357 RPGMaker 300 2D 288 RPG 239 Replay Value 235 Surreal 231 Casual 219 Exploration 217 Psychological Horror 101 Anime 77
+8.55,110262,Shooter 5175 Action 3108 FPS 3061 Multiplayer 2428 Team-Based 1613 First-Person 1419 Tactical 1279 Competitive 1263 PvP 977 eSports 848 Military 710 War 616 Strategy 491 Moddable 467 Difficult 370 Singleplayer 357 Atmospheric 282 Survival 274 Simulation 248 Sandbox 200
+8.55,11763,Sandbox 183 Violent 145 Gore 140 Simulation 138 Physics 122 Casual 102 Funny 92 Indie 88 Blood 80 Singleplayer 55 Building 54 2D 51 Psychological Horror 37 Horror 31 Moddable 18 Destruction 18 Pixel Graphics 17 Action 10 Multiplayer 8
+8.55,39243,America 1176 Action 974 Pixel Graphics 804 Co-op 773 2D 731 Platformer 654 Local Co-Op 641 Indie 604 Multiplayer 579 Shooter 439 Side Scroller 413 Funny 407 Retro 391 Gore 376 Local Multiplayer 372 Comedy 338 Adventure 316 Arcade 289 Casual 251 Epic 123
+8.55,58357,Roguevania 2905 Souls-like 2591 Pixel Graphics 1354 Roguelike 1352 Metroidvania 1351 Action Roguelike 1310 2D 938 Action 936 Difficult 837 Roguelite 829 Hack and Slash 784 Replay Value 762 Platformer 699 Indie 659 Singleplayer 608 Procedural Generation 375 Great Soundtrack 375 Side Scroller 359 Adventure 356 Perma Death 356
+8.54,98415,RPG 2357 Choices Matter 1307 Turn-Based Combat 1249 Open World 1234 Story Rich 1227 Co-op Campaign 1212 Crafting 1209 Party-Based RPG 1191 Multiplayer 1188 Fantasy 1183 Character Customization 1180 PvP 1171 Isometric 1162 Moddable 1159 CRPG 1157 Strategy 1147 Turn-Based 1131 Turn-Based Tactics 1126 Female Protagonist 1114 Perma Death 1100
+8.54,15799,Free to Play 660 2D Fighter 505 Funny 330 Action 328 Fighting 310 Gore 253 2D 228 Indie 195 Singleplayer 190 Cartoon 155 Blood 150 Survival 143 Violent 137 Fast-Paced 122 Casual 120 Arcade 118 Beat 'em up 118 Cute 102 Difficult 76 Co-op 53
+8.53,50298,Story Rich 1507 Great Soundtrack 1251 Indie 1195 Emotional 720 Adventure 619 RPGMaker 608 Singleplayer 529 Pixel Graphics 526 Interactive Fiction 477 RPG 326 Romance 304 Short 291 2D 241 Funny 217 Psychological 174 Retro 142 Linear 134 Cute 125 Casual 124 Female Protagonist 82
+8.53,104097,Third-Person Shooter 2264 Action Roguelike 1973 Multiplayer 1878 Action 1849 Roguelite 1702 Co-op 1591 Looter Shooter 1545 Loot 1307 Roguelike 1262 Shooter 984 Online Co-Op 823 Indie 814 Third Person 814 Survival 812 Difficult 808 Singleplayer 802 Soundtrack 802 Early Access 758 Great Soundtrack 547 Bullet Hell 297
+8.52,137149,Open World Survival Craft 5483 Survival 5459 Open World 4498 Exploration 4283 Underwater 3985 Crafting 3871 Base Building 3495 Singleplayer 3220 Adventure 3078 Horror 3048 First-Person 2999 Sci-fi 2482 Sandbox 2294 Aliens 2094 Atmospheric 2030 Early Access 1381 Action 1351 Survival Horror 1215 Indie 1172 Multiplayer 1104
+8.52,60834,Difficult 1519 Cartoon 1138 Platformer 971 Great Soundtrack 965 Co-op 885 Hand-drawn 818 Local Co-Op 807 2D 776 Indie 675 Retro 649 Cartoony 610 Multiplayer 596 Action 573 Bullet Hell 560 Shoot 'Em Up 516 Side Scroller 444 Colorful 427 Funny 417 Singleplayer 415 Atmospheric 374
+8.52,10313,Puzzle 395 Indie 285 Difficult 224 Singleplayer 173 Pixel Graphics 159 Cute 138 Logic 129 2D 117 Programming 111 Sokoban 107 Great Soundtrack 68 Casual 24 Psychological Horror 18 Minimalist 7
+8.52,50558,FPS 2086 Classic 1615 Action 1252 Sci-fi 1062 Singleplayer 931 Shooter 891 First-Person 768 1990's 681 Aliens 650 Multiplayer 642 Story Rich 543 Adventure 473 Silent Protagonist 467 Atmospheric 466 Great Soundtrack 336 Moddable 304 Retro 299 Linear 230 Difficult 222 Gore 55
+8.51,68437,Co-op 1763 Action 1323 Multiplayer 1172 Adventure 1167 Local Co-Op 1035 Beat 'em up 997 Funny 989 Indie 810 Online Co-Op 802 Comedy 721 Hack and Slash 716 2D 711 RPG 659 Local Multiplayer 527 Casual 493 Controller 460 Great Soundtrack 421 Fantasy 393 Side Scroller 393 Action RPG 359
+8.51,50764,Colony Sim 1595 Base Building 1425 Survival 1360 Resource Management 1044 Building 881 Singleplayer 781 Simulation 678 Management 643 2D 632 Sandbox 629 Strategy 574 Space 495 Indie 418 Sci-fi 359 Exploration 315 Early Access 312 Open World 290 Difficult 275 Adventure 247 Space Sim 217
+8.51,54981,Roguelike 2702 Space 2466 Strategy 2043 Sci-fi 1971 Indie 1943 Singleplayer 1605 Perma Death 1431 Difficult 1285 Replay Value 1222 Real-Time with Pause 1041 Great Soundtrack 930 2D 848 Simulation 674 Roguelite 643 Survival 607 Adventure 484 Pixel Graphics 432 RPG 273 Atmospheric 268 Casual 102
+8.51,20063,Music 207 Rhythm 203 Anime 159 Cute 145 Casual 118 Sexual Content 105 Indie 103 Action 99 Female Protagonist 96 Great Soundtrack 84 Singleplayer 68 Funny 46 Nudity 44 Arcade 43 Difficult 38 2D 37 Colorful 35 Beautiful 14 Mature 10 Multiplayer 6
+8.51,9339,FPS 359 Retro 342 Horror 338 Shooter 335 Lovecraftian 335 Fast-Paced 332 Dark Humor 324 First-Person 323 1990's 319 Old School 316 Action 308 Great Soundtrack 307 Classic 305 Level Editor 294 Singleplayer 290 Atmospheric 277 Bullet Time 271 PvP 270 Arena Shooter 269 Blood 258
+8.50,59351,Horror 2993 First-Person 1200 Survival Horror 1152 Atmospheric 1136 Gore 975 Survival 964 Psychological Horror 885 Singleplayer 795 Adventure 714 Action 707 Dark 659 Indie 567 Stealth 531 Nudity 384 Parkour 302 Difficult 294 3D Vision 175 Walking Simulator 173 Sci-fi 150 Multiplayer 104
+8.50,696126,Free to Play 60448 Hero Shooter 60180 Multiplayer 21141 FPS 13993 Shooter 11398 Action 11031 Class-Based 8563 Team-Based 8164 Funny 8017 First-Person 6864 Online Co-Op 6429 Cartoony 6355 Competitive 6346 Trading 6173 Co-op 5097 Comedy 4520 Robots 4048 Tactical 3469 Cartoon 3372 Crafting 3259
+8.50,287647,Open World 9811 RPG 8525 Fantasy 6071 Adventure 5452 Moddable 4723 Dragons 4722 First-Person 3877 Action 3457 Medieval 3386 Singleplayer 3321 Magic 3284 Story Rich 2897 Great Soundtrack 2768 Sandbox 2458 Lore-Rich 2392 Atmospheric 2369 Character Customization 2251 Action RPG 1757 Third Person 1694 Epic 1414
+8.50,5030,Choose Your Own Adventure 302 Funny 286 Classic 286 Memes 279 Multiple Endings 263 Comedy 229 Point & Click 227 Choices Matter 208 Singleplayer 199 Hand-drawn 197 Family Friendly 191 2D 186 Interactive Fiction 178 Old School 171 Parody 171 Adventure 165 Epic 159 Casual 159 Action 157 Indie 155
+8.50,38828,VR 542 Rhythm 406 Music 391 Indie 217 Great Soundtrack 215 Fast-Paced 165 Singleplayer 160 Moddable 149 First-Person 146 Difficult 138 Swordplay 83 Action 73 Sports 61 Memes 43 Futuristic 41 Early Access 37 Multiplayer 36 Star Wars 33 Music-Based Procedural Generation 24 Anime 22
+8.50,40330,Tower Defense 1079 Zombies 949 Strategy 737 Singleplayer 613 Casual 543 Comedy 386 2D 326 Family Friendly 308 Great Soundtrack 272 Classic 265 Funny 261 Puzzle 239 Cute 218 Indie 204 Survival 194 Addictive 189 Tactical 149 Touch-Friendly 103 Adventure 92 Post-apocalyptic 60
+8.50,36954,Indie 1718 Political 1280 Simulation 1007 Point & Click 844 Singleplayer 824 Dystopian 746 Pixel Graphics 682 Puzzle 542 Retro 486 Multiple Endings 474 Story Rich 428 Atmospheric 392 2D 352 Great Soundtrack 315 Addictive 309 Strategy 306 Casual 294 Adventure 287 Replay Value 273 Difficult 255
+8.49,14217,Puzzle 530 Mystery 245 Point & Click 230 Atmospheric 188 Adventure 172 Singleplayer 169 Indie 151 Hidden Object 112 Short 87 Horror 76 Casual 67 First-Person 57 Beautiful 54 Steampunk 35 Dark 30 Lovecraftian 26 Touch-Friendly 21 Psychological Horror 19 Story Rich 17 Difficult 7
+8.49,32489,Beautiful 1289 Atmospheric 1000 Great Soundtrack 805 Indie 805 Female Protagonist 753 Adventure 561 Hand-drawn 475 Singleplayer 425 2D 415 Platformer 410 Relaxing 365 Story Rich 355 Puzzle 249 Colorful 239 Surreal 234 Puzzle Platformer 232 Casual 159 Exploration 135 Anime 129 Walking Simulator 111
+8.49,55947,Open World 1660 Action 1374 Comedy 1191 Co-op 914 Third-Person Shooter 911 Funny 745 Sandbox 678 Third Person 632 Character Customization 614 Online Co-Op 600 Singleplayer 510 Great Soundtrack 427 Shooter 413 Multiplayer 397 Crime 392 Female Protagonist 314 Adventure 288 Satire 242 RPG 229 Zombies 229
+8.49,21969,Difficult 1057 Great Soundtrack 754 Indie 743 Fast-Paced 532 Arcade 488 Addictive 469 Rhythm 435 Singleplayer 304 Score Attack 217 Action 217 Minimalist 210 Music 195 2D 189 Psychedelic 141 Colorful 132 Casual 102 Replay Value 88 Controller 47 Puzzle 38 Soundtrack 23
+8.49,50847,Bullet Hell 3205 Action Roguelike 1814 Roguelike 1746 Pixel Graphics 1425 Difficult 1201 Dungeon Crawler 1046 Indie 888 Twin Stick Shooter 818 Local Co-Op 784 Action 748 Roguelite 689 2D 663 Singleplayer 617 Top-Down 608 Multiplayer 600 Cute 597 Co-op 594 Loot 592 Shooter 591 Funny 585
+8.49,101332,FPS 2785 Story Rich 2440 Action 2166 Singleplayer 1815 Steampunk 1723 Atmospheric 1598 Shooter 1439 First-Person 1329 Alternate History 925 Beautiful 910 Adventure 823 Great Soundtrack 712 Dystopian 665 Sci-fi 508 Time Travel 395 Fantasy 309 Gore 274 Linear 256 RPG 239 Immersive 151
+8.49,4586,Adventure 85 Indie 75 Cute 65 Exploration 64 Relaxing 54 Pixel Graphics 49 Nature 39 3D Platformer 38 Walking Simulator 37 Casual 31 Great Soundtrack 29 Funny 28 Singleplayer 27 Female Protagonist 25 Short 23 Open World 22 Family Friendly 18 Flight 11 Third Person 11 Beautiful 9
+8.48,48814,Co-op 854 Class-Based 620 Multiplayer 616 FPS 611 Action 584 Loot 566 PvE 543 First-Person 537 Looter Shooter 536 Shooter 526 Combat 525 Atmospheric 516 Online Co-Op 509 Dark 508 Procedural Generation 508 Action Roguelike 506 Sci-fi 493 Exploration 483 Singleplayer 482 Survival 383
+8.48,11168,Anime 477 Free to Play 419 RPG 327 Female Protagonist 277 RPGMaker 254 Singleplayer 177 Great Soundtrack 177 Indie 173 Story Rich 152 Action 135 JRPG 131 Cute 114 2D 98 Pixel Graphics 90 Fantasy 84 Action RPG 81 Multiple Endings 62 Puzzle 37 Casual 29 Nudity 22
+8.48,16586,Free to Play 847 Action 564 Pixel Graphics 431 2D 426 Multiplayer 395 Local Co-Op 336 Shooter 328 Co-op 283 Local Multiplayer 234 Platformer 233 Indie 224 Adventure 209 Singleplayer 202 Funny 185 America 170 Side Scroller 152 Controller 152 Comedy 141 Classic 106 Open World 80
+8.48,26436,JRPG 899 Great Soundtrack 754 Anime 670 Story Rich 656 RPG 585 Party-Based RPG 521 Singleplayer 506 Turn-Based Combat 503 Turn-Based Strategy 452 Mystery 451 Emotional 406 Multiple Endings 382 Detective 307 Colorful 302 Adventure 256 Strategy 225 Dating Sim 208 Violent 122 Sexual Content 104 Visual Novel 47
+8.48,82513,Strategy 2687 RTS 2116 Medieval 1398 Multiplayer 1364 Classic 1285 Historical 966 Base Building 825 City Builder 729 Resource Management 700 Singleplayer 678 Tactical 537 Real-Time 482 Co-op 463 Competitive 437 Replay Value 328 Remake 294 2D 258 Isometric 220 Action 214 Adventure 170
+8.48,3859,Casual 215 Adventure 211 Visual Novel 132 Anime 95 Dating Sim 58 Romance 41 Cute 25 Singleplayer 17 Story Rich 17 Multiple Endings 5
+8.48,10100,Puzzle 250 Mystery 136 Atmospheric 114 Point & Click 110 Hidden Object 96 Adventure 96 Indie 94 Horror 77 Singleplayer 73 Short 35 Lovecraftian 30 Psychological Horror 26 Steampunk 25 Story Rich 25 First-Person 21 Casual 21 Dark 17 Great Soundtrack 16
+8.48,9531,Story Rich 254 Great Soundtrack 202 Pixel Graphics 148 Indie 143 RPGMaker 130 Singleplayer 125 Adventure 108 RPG 95 Atmospheric 84 Emotional 67 Visual Novel 55 2D 50 Interactive Fiction 42 Comedy 32 Walking Simulator 21 Funny 20 Female Protagonist 12 Retro 10 Horror 8 Point & Click 6
+8.48,8088,Co-op 253 Puzzle 210 Local Co-Op 168 Multiplayer 138 VR 136 Indie 122 Difficult 96 Local Multiplayer 89 Team-Based 77 Family Friendly 72 First-Person 67 Fast-Paced 66 Funny 64 Simulation 57 Action 47 Asymmetric VR 42 Atmospheric 41 Strategy 40 Party 29 Party Game 28
+8.47,184338,Zombies 5172 Horror 5169 Survival Horror 5164 Online Co-Op 4005 Parkour 3864 PvP 3858 First-Person 3849 Open World Survival Craft 3848 Open World 3846 PvE 3836 FPS 3825 Action 3824 Gore 3820 Stealth 3806 Survival 3803 Post-apocalyptic 3519 Story Rich 3518 Hack and Slash 3407 Action RPG 3397 RPG 3360
+8.47,18267,Detective 121 Indie 97 Simulation 87 RPG 87 Puzzle 83 Mystery 78 Story Rich 58 Singleplayer 21 Horror 19 Atmospheric 19 Point & Click 13 2D 11 Top-Down 7
+8.47,35372,Atmospheric 909 Great Soundtrack 854 Platformer 779 Metroidvania 761 Adventure 612 Story Rich 548 Singleplayer 462 Cute 428 Action 400 Fantasy 357 Difficult 350 2D 311 Indie 261 Puzzle 225 Side Scroller 206 Open World 189 Controller 164 Family Friendly 123 2.5D 121 RPG 79
+8.46,8014,Action 210 Metroidvania 201 Indie 185 Adventure 160 Pixel Graphics 152 2D 149 Female Protagonist 141 Anime 130 Great Soundtrack 117 Faith 112 Time Manipulation 96 Singleplayer 96 Platformer 94 Side Scroller 72 Cute 68 Action-Adventure 56 Beat 'em up 54 Exploration 52 Controller 39 Bullet Hell 28
+8.46,8683,Visual Novel 496 Story Rich 408 Anime 398 Time Travel 364 Sci-fi 318 Great Soundtrack 273 Multiple Endings 244 Choices Matter 172 Science 150 Singleplayer 144 Adventure 141 Atmospheric 127 Mystery 116 Romance 108 Thriller 105 Psychological Horror 99 Memes 63 Dating Sim 45 Casual 31 Horror 27
+8.46,15544,Stealth 1118 Platformer 760 Ninja 728 Indie 569 2D 530 Action 482 Singleplayer 415 Side Scroller 269 Adventure 238 Assassin 119 Atmospheric 109 Controller 86 Replay Value 65 Cartoon 59 Puzzle 58 Dark 50 Short 45 Story Rich 37 Strategy 31 Casual 21
+8.46,48014,Action Roguelike 2306 Roguelike 2239 Indie 1914 Replay Value 1294 Difficult 1261 Procedural Generation 917 Dark 880 Action 867 Top-Down 687 Great Soundtrack 677 Addictive 615 Singleplayer 592 Adventure 534 Roguelite 462 Survival 377 2D 371 RPG 370 Dungeon Crawler 367 Perma Death 323 Bullet Hell 299
+8.46,127793,FPS 2510 Gore 2100 Action 2047 Shooter 1681 Demons 1642 Great Soundtrack 1530 First-Person 1497 Multiplayer 1271 Singleplayer 1265 Fast-Paced 1229 Sci-fi 1079 Horror 952 Classic 877 Atmospheric 860 Difficult 622 Blood 620 Remake 488 Zombies 402 Co-op 353 Violent 131
+8.46,11447,Stealth 626 Indie 474 Puzzle 468 2D 322 Pixel Graphics 302 Comedy 295 Singleplayer 289 Action 286 Strategy 269 Noir 235 Platformer 218 Great Soundtrack 211 Funny 209 Short 159 Hacking 127 Level Editor 97 GameMaker 81 Story Rich 70 Adventure 67 Sci-fi 43
+8.46,17121,Strategy 511 Star Wars 494 RTS 363 Space 296 Sci-fi 281 Multiplayer 268 Singleplayer 240 Moddable 211 Tactical 172 Mod 146 Action 129 War 114 Great Soundtrack 99 Classic 90 Grand Strategy 69 Simulation 57 Co-op 55 4X 54 Adventure 49 Atmospheric 41
+8.46,31717,Tabletop 795 Board Game 664 Simulation 473 Multiplayer 429 Sandbox 347 Card Game 287 Physics 259 Casual 255 Strategy 254 Moddable 251 Indie 249 VR 246 RPG 246 Co-op 243 Online Co-Op 241 Chess 233 Singleplayer 232 Relaxing 226 Gambling 222 Strategy RPG 222
+8.46,7712,Rhythm 229 Great Soundtrack 212 Music 201 Bullet Hell 176 Indie 163 Difficult 161 Action 130 2D 128 Multiplayer 125 Local Multiplayer 94 Co-op 93 Singleplayer 83 Local Co-Op 76 Online Co-Op 61 Story Rich 60 4 Player Local 47 Fast-Paced 43 Colorful 36 Funny 25 Strategy 17
+8.45,26601,FPS 640 War 604 Singleplayer 593 Shooter 581 Action 561 First-Person 509 Military 476 Early Access 454 Funny 344 Team-Based 327 Indie 295 Sandbox 293 Strategy 272 Physics 266 Tactical 258 Simulation 236 Realistic 144 Atmospheric 103 Adventure 97 Moddable 79
+8.45,25070,Multiplayer 562 Funny 419 Pixel Graphics 389 Local Multiplayer 369 Action 369 2D 312 4 Player Local 274 Platformer 226 Indie 223 Fast-Paced 200 Comedy 184 Shooter 172 Retro 171 Competitive 168 Great Soundtrack 148 Local Co-Op 146 Memes 135 Co-op 135 Casual 90 1980s 62
+8.45,59331,Automobile Sim 2541 Simulation 2355 Driving 1686 Open World 1247 America 1128 Realistic 1050 Multiplayer 1026 Singleplayer 827 Relaxing 797 Moddable 678 First-Person 596 Exploration 506 Economy 391 Atmospheric 383 Adventure 339 Casual 319 Indie 305 Family Friendly 292 Management 288 Third Person 261
+8.45,60281,FPS 1615 Zombies 1585 Co-op 1474 Survival 1163 Horror 1021 Action 1012 Multiplayer 979 Online Co-Op 891 Gore 763 Shooter 723 Team-Based 526 First-Person 462 Survival Horror 366 Moddable 329 Great Soundtrack 262 Class-Based 215 Singleplayer 210 Difficult 205 Comedy 141 Adventure 137
+8.45,23103,Nudity 2277 Mature 1589 Sexual Content 1363 Anime 1350 Dating Sim 1162 Puzzle 577 Match 3 468 Romance 450 Singleplayer 423 Cute 371 Hentai 257 Comedy 248 Indie 232 Casual 212 RPG 209 Story Rich 189 Strategy 168 Memes 153 Great Soundtrack 152 2D 138
+8.45,10252,Anime 803 Sexual Content 678 Cute 528 Visual Novel 471 Nudity 468 Dating Sim 348 Romance 279 Story Rich 238 Singleplayer 235 Great Soundtrack 159 Indie 129 Hentai 109 2D 89 Linear 67 Atmospheric 52 Comedy 48 Cats 39 Female Protagonist 34 Adventure 23 NSFW 14
+8.44,50028,First-Person 1416 Violent 1410 Comedy 1404 Open World 1402 Sandbox 1395 Moddable 1390 Funny 1389 Dark Humor 1387 Gore 953 FPS 944 Action 881 Classic 654 Singleplayer 578 Mature 542 Adventure 448 Shooter 431 Multiplayer 409 Satire 408 Indie 404 Addictive 72
+8.44,27661,Action 1126 Batman 1018 Stealth 773 Third Person 704 Adventure 663 Superhero 660 Singleplayer 540 Open World 432 Beat 'em up 412 Detective 270 Comic Book 263 Atmospheric 242 Story Rich 220 Action-Adventure 175 Fighting 169 Controller 136 Metroidvania 114 Puzzle 109 3D Vision 91 Horror 58
+8.44,4368,Bullet Hell 670 Great Soundtrack 563 Difficult 422 Shoot 'Em Up 373 Female Protagonist 371 Indie 348 Singleplayer 318 Faith 243 Cute 212 Arcade 198 2D 181 Fantasy 173 Lore-Rich 147 Story Rich 125 Cult Classic 118 Anime 101 Action 97 Casual 60 Family Friendly 50 Shooter 16
+8.44,21354,FPS 875 Action 639 Sci-fi 529 Singleplayer 462 Shooter 406 Story Rich 357 First-Person 349 Classic 325 Adventure 285 Aliens 264 Atmospheric 233 Zombies 231 Silent Protagonist 209 Great Soundtrack 188 Dystopian 184 Post-apocalyptic 168 Episodic 137 Puzzle 135 Horror 118 Multiplayer 81
+8.44,39683,Visual Novel 2918 Story Rich 2271 Free to Play 2227 Anime 2141 Great Soundtrack 1823 Choices Matter 1582 Singleplayer 1238 Mature 1217 Romance 1158 Nudity 1060 Multiple Endings 950 2D 753 Dating Sim 719 Replay Value 680 Adventure 656 Mystery 641 Comedy 499 Indie 424 Classic 393 Casual 262
+8.44,12470,Anime 578 Visual Novel 538 Mystery 507 Detective 494 Story Rich 440 Great Soundtrack 402 Singleplayer 332 Psychological Horror 303 Adventure 233 Horror 192 Dark Comedy 180 Dark Humor 168 Puzzle 159 Point & Click 134 Funny 108 Comedy 100 Exploration 89 Survival 87 Action 81 Memes 60
+8.44,201236,Open World Survival Craft 10389 Survival 9887 Open World 7063 Horror 6060 Crafting 5299 Adventure 4591 Building 4336 Survival Horror 3767 First-Person 3638 Action 3160 Exploration 2821 Sandbox 2757 Atmospheric 2315 Simulation 2214 Singleplayer 2117 Indie 1994 Realistic 1812 Gore 1762 Early Access 1572 Zombies 1186
+8.44,32050,Great Soundtrack 1613 Indie 1427 Action 1240 Narration 1083 Singleplayer 1068 RPG 1002 Hack and Slash 914 Story Rich 899 Dynamic Narration 813 Isometric 742 Adventure 672 Action RPG 593 Fantasy 341 Atmospheric 314 Colorful 212 Post-apocalyptic 190 2D 120 Music 115 Twin Stick Shooter 102 Controller 84
+8.44,43555,FPS 703 Remake 635 Action 629 Sci-fi 546 First-Person 526 Singleplayer 477 Shooter 452 Classic 442 Story Rich 410 Atmospheric 409 Adventure 391 Great Soundtrack 370 Zombies 345 Aliens 342 Early Access 300 Multiplayer 274 Horror 271 Indie 271 Mod 164 Co-op 76
+8.44,9598,Hentai 868 Anime 807 Sexual Content 783 Nudity 626 Cute 582 Visual Novel 555 Dating Sim 300 Story Rich 297 Singleplayer 244 Casual 206 Great Soundtrack 168 Romance 155 Indie 127 Atmospheric 102 NSFW 90 2D 89 Adventure 27 Funny 27 Replay Value 26 Cats 16
+8.43,91683,Difficult 2392 Precision Platformer 1889 Great Soundtrack 1864 Music 1843 Level Editor 1699 Rhythm 1698 2D 1662 Colorful 1320 Singleplayer 1238 Platformer 1142 Character Customization 1103 Arcade 705 Indie 666 Side Scroller 594 Action 528 Funny 507 Family Friendly 441 Casual 396 Strategy 309 Adventure 275
+8.43,7139,Visual Novel 187 Detective 176 Story Rich 174 Great Soundtrack 159 Anime 156 Adventure 150 Mystery 145 Singleplayer 107 Puzzle 99 Funny 89 Crime 84 Classic 80 Point & Click 78 Cult Classic 52 Comedy 51 Conversation 42 2D 30 Dynamic Narration 22 Casual 21 Memes 19
+8.43,3649,Casual 64 Indie 55 Building 46 Sandbox 45 Simulation 43 City Builder 39 Early Access 39 Atmospheric 31 Relaxing 29 Singleplayer 9 Colorful 9 Cute 7 Beautiful 5
+8.43,45650,Simulation 1870 Driving 1721 Destruction 1694 Physics 1690 Automobile Sim 1681 Realistic 1591 Racing 1275 Open World 1231 Sandbox 1192 Moddable 1013 Singleplayer 868 Early Access 805 First-Person 611 Funny 602 Third Person 554 Multiplayer 539 Action 505 Adventure 345 Casual 307 Free to Play 127
+8.43,18879,Rhythm 1040 Perma Death 834 Mystery Dungeon 833 Dungeon Crawler 830 Roguelike 828 Roguelite 821 Difficult 808 Top-Down 807 Music-Based Procedural Generation 801 Female Protagonist 800 RPG 797 2D 794 Procedural Generation 784 Action 776 Pixel Graphics 776 Magic 766 Fantasy 764 Medieval 757 Dark Fantasy 753 Hack and Slash 748
+8.43,8460,Anime 488 Cute 454 Bullet Hell 398 Metroidvania 376 Female Protagonist 372 Pixel Graphics 316 Great Soundtrack 307 Action 271 Adventure 253 Difficult 245 Indie 190 Platformer 175 2D 165 Singleplayer 138 Side Scroller 122 Casual 68 Shoot 'Em Up 44 RPG 32 Crowdfunded 14 Story Rich 8
+8.43,26144,Adventure 715 Puzzle 708 Dark 704 Atmospheric 699 Story Rich 696 Platformer 567 Action-Adventure 561 Indie 559 Survival 482 Horror 474 Action 472 Puzzle Platformer 462 Singleplayer 458 Survival Horror 339 Psychological Horror 328 Mystery 325 Stealth 321 Dystopian 317 Great Soundtrack 316 Sci-fi 283
+8.42,4289,Indie 99 Casual 99 Emotional 44 Great Soundtrack 43 Relaxing 29 Cute 29 Experimental 29 Atmospheric 27 Multiplayer 26 Colorful 24 Asynchronous Multiplayer 23
+8.42,18667,Automation 388 Base Building 383 Resource Management 368 Co-op 366 Crafting 355 Open World 353 Building 343 Multiplayer 338 Exploration 335 Sandbox 311 Adventure 289 Strategy 282 Simulation 275 Early Access 271 Indie 237 Survival 135 Open World Survival Craft 122 First-Person 114 Singleplayer 102 Sci-fi 99
+8.42,33607,Action 1265 Batman 1106 Open World 1053 Stealth 832 Adventure 824 Third Person 771 Superhero 758 Singleplayer 562 Beat 'em up 413 Comic Book 302 Detective 298 Story Rich 276 Fighting 271 Atmospheric 268 Action-Adventure 206 Cinematic 154 Controller 141 3D Vision 113 Metroidvania 98 Sandbox 80
+8.42,3807,Visual Novel 452 Anime 376 Story Rich 303 Romance 274 Drama 249 Great Soundtrack 230 Singleplayer 160 Classic 151 Multiple Endings 149 Cute 142 Dating Sim 133 Choices Matter 131 Casual 87 Adventure 81 Atmospheric 81 Emotional 71 Comedy 64 Family Friendly 36 2D 27 Sexual Content 15
+8.42,34708,Strategy 339 Tower Defense 284 Singleplayer 211 Co-op 180 Multiplayer 176 Online Co-Op 159 Family Friendly 146 Casual 131 3D 115 Sandbox 107 Cartoony 102 Funny 88 Difficult 85 Great Soundtrack 71 Action 64 Survival 60 Cute 48 2D 46 Indie 44 Adventure 14
+8.42,19526,Action 222 Indie 162 Shooter 123 Violent 121 Parkour 121 Bullet Time 116 Great Soundtrack 104 Gore 104 Singleplayer 91 Side Scroller 82 Platformer 76 Fast-Paced 73 Funny 72 Comedy 57 2.5D 53 Blood 49 2D 48 Physics 45 Controller 38 Multiplayer 30
+8.42,2750,Casual 108 Adventure 99 Visual Novel 67 Story Rich 49 Anime 46 Great Soundtrack 30 Cute 27 Multiple Endings 26 Romance 23 Dating Sim 23 Singleplayer 18
+8.42,27997,Zombies 1963 Co-op 1215 Multiplayer 1046 FPS 1044 Action 909 Shooter 718 Online Co-Op 695 Horror 647 Team-Based 567 First-Person 528 Survival 528 Post-apocalyptic 465 Singleplayer 356 Atmospheric 266 Adventure 259 Tactical 245 Moddable 228 Competitive 221 Replay Value 220 Female Protagonist 185
+8.42,10170,Anime 374 Detective 331 Visual Novel 307 Mystery 281 Story Rich 277 Great Soundtrack 250 Singleplayer 207 Psychological Horror 157 Adventure 153 Dark Comedy 123 Horror 106 Atmospheric 98 Puzzle 95 Dark 75 Memes 71 Comedy 69 Dating Sim 55 Mature 54 Funny 53 Walking Simulator 28
+8.42,36464,Building 1022 Sandbox 932 Physics 868 Destruction 759 Medieval 730 Simulation 552 Singleplayer 508 Strategy 424 Indie 414 Early Access 399 Funny 308 Puzzle 266 Multiplayer 238 Blood 231 Action 208 Casual 184 Open World 182 Third Person 171 Gore 135 Adventure 109
+8.41,23285,Zombies 1324 Adventure 993 Story Rich 851 Episodic 685 Point & Click 672 Singleplayer 631 Female Protagonist 509 Drama 494 Atmospheric 474 Choices Matter 440 Horror 439 Choose Your Own Adventure 430 Comic Book 392 Emotional 350 Mature 320 Survival 308 Cinematic 279 Post-apocalyptic 273 Action 196 Quick-Time Events 178
+8.41,2970,Funny 183 JRPG 180 Comedy 164 RPG 146 Adventure 111 Turn-Based 98 Strategy 88 Great Soundtrack 79 Turn-Based Combat 76 Singleplayer 67 Indie 60 2D 54 Anime 47 Fantasy 42 Parody 39 Cats 31 Sexual Content 26 Epic 20 Casual 13
+8.41,12526,Platformer 626 Pixel Graphics 510 Retro 480 Great Soundtrack 474 Indie 421 2D 415 Adventure 305 Action 283 Singleplayer 199 Difficult 187 Side Scroller 176 Kickstarter 152 Fantasy 138 Old School 86 Medieval 85 Funny 76 Comedy 66 Arcade 64 RPG 54 Metroidvania 54
+8.41,19191,Stealth 583 Strategy 488 Tactical 481 Ninja 383 Real Time Tactics 292 Indie 220 Singleplayer 194 Isometric 150 Action 140 Historical 139 RTS 120 Assassin 117 Difficult 107 Violent 84 Atmospheric 76 Third Person 58 Survival 45 Adventure 34 Great Soundtrack 27 Puzzle 25
+8.41,23363,Horror 723 Atmospheric 634 Story Rich 576 Sci-fi 563 Psychological Horror 561 First-Person 484 Singleplayer 400 Adventure 342 Survival Horror 342 Underwater 340 Robots 251 Indie 213 Stealth 211 Walking Simulator 183 Action 182 Puzzle 170 Great Soundtrack 169 Survival 157 Gore 127 Moddable 109
+8.41,23371,Metroidvania 388 RPG 294 Action 273 Female Protagonist 245 Adventure 203 Anime 192 Side Scroller 156 2.5D 142 Platformer 139 Great Soundtrack 131 Gothic 100 Dark Fantasy 99 Exploration 95 Crafting 81 Singleplayer 72 Nudity 55 2D 54 Difficult 42 Sexual Content 37 Multiplayer 31
+8.41,62772,Survival 2320 War 1305 Atmospheric 1151 Singleplayer 1015 Strategy 986 Simulation 863 Choices Matter 856 Crafting 805 Story Rich 681 Indie 676 Base Building 658 Management 656 Emotional 652 Realistic 650 Resource Management 644 Drama 635 Post-apocalyptic 630 Stealth 621 Psychological 620 2.5D 618
+8.41,15030,Atmospheric 1279 Open World 1239 Post-apocalyptic 1147 FPS 1011 Survival 982 Action 715 Singleplayer 568 RPG 515 Shooter 495 Survival Horror 482 First-Person 462 Moddable 422 Horror 409 Zombies 359 Classic 335 Adventure 326 Sci-fi 323 Multiplayer 273 Sandbox 194 Immersive 176
+8.40,9723,Detective 260 Mystery 255 Story Rich 189 Puzzle 188 Singleplayer 183 Atmospheric 178 Indie 149 Great Soundtrack 95 Adventure 86 Historical 86 Multiple Endings 77 First-Person 71 Difficult 69 Naval 68 Retro 66 Violent 65 Pirates 54 Horror 53 Walking Simulator 45 Noir 43
+8.40,99475,Souls-like 1523 Difficult 1355 Action 1336 Singleplayer 1029 Ninja 928 Stealth 788 Adventure 728 Third Person 646 Atmospheric 504 Story Rich 494 Violent 481 Dark Fantasy 452 Open World 452 Assassin 428 Great Soundtrack 377 Hack and Slash 354 Gore 339 RPG 338 Dark 272 Rhythm 120
+8.40,7703,Puzzle 169 Casual 119 Indie 97 Minimalist 85 Short 65 Relaxing 59 Singleplayer 59 2D 21 Great Soundtrack 20 Difficult 11 Atmospheric 9 Logic 6
+8.40,33644,Simulation 1325 Management 1309 Indie 870 Strategy 673 Casual 640 Singleplayer 553 Economy 417 2D 334 Moddable 260 Addictive 221 Replay Value 205 Sandbox 180 GameMaker 174 Funny 166 Point & Click 89 Difficult 89 Great Soundtrack 78 Comedy 67 Touch-Friendly 66 Isometric 61
+8.40,6883,Puzzle 131 Hand-drawn 87 Indie 83 Adventure 63 Casual 57 Atmospheric 54 Singleplayer 52 Beautiful 48 Stylized 43 Short 38 2D 35 Story Rich 33 Exploration 31 Interactive Fiction 31 Mystery 31 Cartoony 22 Point & Click 21 Great Soundtrack 20
+8.40,2859,Adventure 125 Indie 122 Casual 120 Point & Click 79 Comedy 78 Funny 70 Story Rich 67 Pixel Graphics 65 Singleplayer 62 2D 61 Parody 56 Romance 53 Narration 47 Simulation 35 Remake 33 Interactive Fiction 33 Anime 29 RPG 28 Great Soundtrack 26 Action 25
+8.40,3719,Free to Play 111 Pixel Graphics 89 RPG 84 Adventure 78 Indie 72 Cute 64 Singleplayer 63 Story Rich 61 Multiple Endings 57 Turn-Based 51 RPGMaker 50 Female Protagonist 46 Great Soundtrack 27 2D 20
+8.40,46744,Action 1219 Hack and Slash 901 Great Soundtrack 610 Demons 601 Character Action Game 586 Spectacle fighter 474 Third Person 425 Singleplayer 386 Violent 375 Classic 283 Stylized 275 Gore 257 Story Rich 245 Multiplayer 238 Nudity 229 Difficult 227 Controller 216 Adventure 196 Anime 169 Co-op 102
+8.40,21975,Puzzle 865 Philosophical 476 First-Person 458 Sci-fi 440 Atmospheric 410 Story Rich 407 Singleplayer 401 Great Soundtrack 287 Robots 279 Adventure 255 Exploration 239 Indie 190 Open World 183 Multiple Endings 123 Difficult 122 Action 106 Post-apocalyptic 106 Mystery 105 Simulation 68 Science 16
+8.40,43894,Action 1448 Open World 1131 Crime 1111 Story Rich 964 Atmospheric 753 Singleplayer 696 Third Person 609 Third-Person Shooter 553 Shooter 529 Automobile Sim 511 Great Soundtrack 493 Adventure 455 Driving 440 America 420 Classic 368 Music 344 Nudity 269 Multiplayer 237 Sandbox 183 3D Vision 144
+8.39,20433,Hentai 1746 Anime 1579 Nudity 1194 Mature 1043 Sexual Content 1039 Visual Novel 994 Cute 899 Dating Sim 576 Singleplayer 470 Story Rich 412 Romance 350 Casual 282 Indie 242 Great Soundtrack 214 Funny 163 Cats 149 Linear 119 NSFW 97 Atmospheric 90 Female Protagonist 24
+8.39,16945,Multiplayer 576 Funny 462 Platformer 339 Level Editor 334 Precision Platformer 331 Local Multiplayer 328 4 Player Local 277 Competitive 274 Casual 273 Indie 269 2D 264 Parkour 263 Difficult 259 Cute 258 Family Friendly 256 2D Platformer 254 Co-op 254 Controller 252 Online Co-Op 250 Cartoony 250
+8.39,4175,Cute 401 Funny 299 Souls-like 142 Action 134 Anime 132 Female Protagonist 130 Indie 123 Magic 95 Difficult 71 Third Person 66 Early Access 63 Fantasy 52 Adventure 37 Third-Person Shooter 33 RPG 30 Singleplayer 27 Psychological Horror 7
+8.39,7768,Strategy 415 RTS 362 Sci-fi 230 Multiplayer 201 Singleplayer 147 Grand Strategy 144 Base Building 122 Co-op 114 Moddable 102 Real-Time with Pause 90 Robots 82 Competitive 75 Real-Time 66 Action 55 Online Co-Op 43 Classic 31 Space 28 Great Soundtrack 27 Adventure 23 War 7
+8.39,12988,Action Roguelike 512 Roguelike 502 Indie 349 Pixel Graphics 322 Difficult 321 Bullet Hell 309 Action 288 Roguelite 262 Top-Down Shooter 225 Great Soundtrack 200 Post-apocalyptic 167 Shooter 161 Local Co-Op 152 Singleplayer 138 2D 134 Top-Down 134 Perma Death 121 Twin Stick Shooter 121 RPG 114 Local Multiplayer 78
+8.39,22287,FPS 537 Multiplayer 496 Action 469 Shooter 456 Singleplayer 399 Mechs 394 Sci-fi 390 First-Person 356 Futuristic 335 Parkour 333 PvP 296 Military 238 Combat 210 Team-Based 190 Time Travel 183 Hero Shooter 143 Violent 119 Gore 85 RTS 55 Fast-Paced 37
+8.39,105297,Funny 1602 Multiplayer 1206 Co-op 926 Puzzle 735 Physics 611 Adventure 583 Indie 546 Local Co-Op 484 Comedy 449 Parkour 393 Local Multiplayer 364 Puzzle Platformer 326 Sandbox 285 Open World 273 Casual 272 Singleplayer 227 3D Platformer 221 Split Screen 208 Simulation 166 Survival 149
+8.39,233298,Loot 9468 Shooter 8983 Action 8963 Multiplayer 7372 Co-op 7227 Looter Shooter 6871 FPS 6674 RPG 5390 First-Person 5271 Funny 4956 Comedy 4731 Open World 3326 Combat 2886 Online Co-Op 1984 Adventure 1929 Action RPG 1684 Dark Humor 1594 Memes 1296 Singleplayer 1234 Sci-fi 1230
+8.39,35046,Action 361 Metroidvania 353 Great Soundtrack 352 Beautiful 348 Platformer 330 Singleplayer 261 Atmospheric 227 Adventure 208 Story Rich 186 Cute 179 Exploration 163 Action-Adventure 157 Puzzle 131 Difficult 130 Indie 121 Emotional 120 Fantasy 105 Open World 100 Souls-like 30 2D 28
+8.39,9742,Strategy 351 Puzzle 277 Minimalist 265 Simulation 262 Indie 241 Trains 228 Singleplayer 202 Casual 201 Management 176 Relaxing 135 2D 126 Touch-Friendly 80 Transportation 79 Building 75 Difficult 72 Mouse only 70 Great Soundtrack 70 Addictive 37 Replay Value 27 Top-Down 14
+8.38,5234,Tower Defense 117 Strategy 112 Resource Management 112 Base Building 110 Multiplayer 81 Sandbox 69 Co-op 64 Building 57 Automation 48 2D 42 Indie 39 Pixel Graphics 37 Online Co-Op 37 PvP 34 RTS 31 PvE 27 Singleplayer 22 Action 10
+8.38,18880,Puzzle Platformer 845 Platformer 818 Adventure 663 Action 656 Beautiful 656 2D Platformer 647 Puzzle 596 Co-op 566 Fantasy 554 Indie 438 Online Co-Op 404 Local Co-Op 395 Multiplayer 258 Physics 253 Great Soundtrack 231 Singleplayer 205 Atmospheric 162 2D 161 RPG 137 Casual 133
+8.38,7752,Strategy 557 Medieval 328 Colony Sim 309 RTS 258 Multiplayer 238 City Builder 209 Classic 203 Tactical 164 Historical 157 Economy 142 Simulation 141 Singleplayer 122 Building 112 Sandbox 79 Adventure 69 Co-op 62 Action 50 2D 46 Great Soundtrack 46 Remake 40
+8.38,17885,Free to Play 858 Horror 827 Difficult 676 Survival Horror 670 Singleplayer 669 Robots 641 Strategy 572 First-Person 508 Survival 457 Dark 395 Indie 386 Point & Click 367 Action 290 Story Rich 271 Psychological Horror 261 Atmospheric 259 Memes 242 Character Customization 225 Funny 215 Simulation 196
+8.38,3279,Free to Play 229 Adventure 201 Indie 199 RPG 179 Pixel Graphics 72 Detective 65 Noir 64 Story Rich 52 Singleplayer 44 Point & Click 43 Atmospheric 40 Great Soundtrack 31 Dystopian 30 Cinematic 27 2.5D 25 Retro 15 Mystery 14 Dark 12
+8.38,16536,Action 777 Platformer 760 Metroidvania 686 Indie 666 RPG 604 Adventure 553 2D 529 Singleplayer 502 Fantasy 399 Great Soundtrack 387 Beat 'em up 350 Hack and Slash 281 Exploration 241 Story Rich 228 Controller 206 Beautiful 192 Anime 168 Side Scroller 164 Atmospheric 149 Action RPG 147
+8.38,24000,RPG 1325 Open World 1267 Fantasy 875 Singleplayer 744 Moddable 665 First-Person 584 Adventure 565 Exploration 540 Great Soundtrack 473 Action 427 Magic 423 Character Customization 372 Story Rich 337 Atmospheric 331 Sandbox 329 Medieval 310 Classic 272 Action RPG 257 Third Person 227 Dark Fantasy 138
+8.38,24000,RPG 1325 Open World 1267 Fantasy 875 Singleplayer 744 Moddable 665 First-Person 584 Adventure 565 Exploration 540 Great Soundtrack 473 Action 427 Magic 423 Character Customization 372 Story Rich 337 Atmospheric 331 Sandbox 329 Medieval 310 Classic 272 Action RPG 257 Third Person 227 Dark Fantasy 138
+8.38,7588,Action 175 Robots 170 3D Fighter 158 Swordplay 144 Fighting 129 Indie 126 Early Access 114 Funny 107 Singleplayer 101 Multiplayer 94 Pixel Graphics 93 Voxel 93 Futuristic 92 Third Person 86 Difficult 76 Comedy 72 Survival 70 Philosophical 51 Dark Humor 46 Roguelike 24
+8.38,4974,RPG 228 Comedy 210 Adventure 186 Funny 186 Western 182 Indie 149 Singleplayer 146 Story Rich 131 Open World 122 Replay Value 120 Choices Matter 118 Great Soundtrack 116 Puzzle 115 Turn-Based 111 Turn-Based Combat 108 Turn-Based Strategy 107 Character Customization 100 2D 96 Point & Click 78 Memes 77
+8.37,11834,RPG 262 Roguelite 250 Action Roguelike 241 Pixel Graphics 232 Action 230 Indie 224 Multiplayer 204 Roguelike 179 Adventure 175 Co-op 155 Funny 112 Local Co-Op 105 Stealth 99 Great Soundtrack 85 Early Access 84 Online Co-Op 80 2D 77 Procedural Generation 72 Violent 59 Gore 57
+8.37,204874,Souls-like 7817 Dark Fantasy 6823 Difficult 6033 RPG 4980 Atmospheric 4537 Lore-Rich 3916 Third Person 3602 Exploration 3235 Story Rich 3200 Co-op 2985 Action RPG 2977 PvP 2791 Adventure 2766 Action 2765 Great Soundtrack 2759 Multiplayer 2587 Open World 2570 Singleplayer 1899 Replay Value 1308 Character Customization 1269
+8.37,18311,Atmospheric 705 Historical 657 World War I 606 Adventure 577 War 536 Story Rich 478 Drama 395 2D 388 Great Soundtrack 309 Puzzle 302 Singleplayer 274 Emotional 163 Dog 156 Side Scroller 135 Platformer 122 Action 105 Education 92 Comic Book 89 Music 84 Indie 79
+8.37,8039,Card Battler 168 Deckbuilding 161 Roguelite 158 Difficult 153 Card Game 150 PvP 142 Roguelike 139 Strategy 134 RPG 84 Turn-Based Combat 84 Turn-Based Tactics 79 Choices Matter 76 Procedural Generation 75 Colorful 72 Tower Defense 70 Fantasy 65 Trains 61 Multiplayer 53 Roguelike Deckbuilder 51 Singleplayer 50
+8.37,35884,Adventure 884 Atmospheric 656 Story Rich 542 Controller 519 Indie 505 Emotional 437 Puzzle 407 Short 387 Fantasy 374 Singleplayer 314 Beautiful 246 Great Soundtrack 203 Action 144 Local Co-Op 126 Platformer 114 Third Person 113 Casual 105 Multiplayer 101 3D Vision 50 Colorful 44
+8.37,44136,Turn-Based Strategy 1999 Tactical 1711 Strategy 1673 Sci-fi 1601 Turn-Based 1325 Aliens 1216 Singleplayer 753 Base Building 566 Turn-Based Tactics 440 Unforgiving 387 Replay Value 379 Addictive 346 Perma Death 308 Multiplayer 306 Character Customization 295 Difficult 290 RPG 289 Action 286 Atmospheric 262 Futuristic 230
+8.37,17554,Atmospheric 1239 Post-apocalyptic 1112 Open World 1072 FPS 992 Survival 806 Action 626 RPG 508 Shooter 467 Survival Horror 462 Horror 421 First-Person 398 Singleplayer 382 Classic 370 Based On A Novel 318 Moddable 309 Adventure 296 Sci-fi 251 Immersive 248 Inventory Management 215 Difficult 198
+8.37,7784,Indie 136 Flight 128 Relaxing 118 Casual 111 Atmospheric 77 Procedural Generation 75 Singleplayer 70 Action 59 Sports 46 Racing 36 Physics 29 Exploration 28 Open World 27 Arcade 26 Parkour 19 Simulation 17 Fast-Paced 16 Score Attack 10 Difficult 7 Multiplayer 5
+8.37,2444,Indie 144 Action Roguelike 140 Action 124 Arcade 114 Space 113 Roguelite 112 Shooter 102 Early Access 96 Replay Value 92 Shoot 'Em Up 90 Arena Shooter 77 2D 74 Bullet Hell 68 Great Soundtrack 68 Retro 64 Roguelike 59 Singleplayer 57 Action RPG 52 Colorful 24 Casual 23
+8.37,14959,Pixel Graphics 309 Physics 309 Action Roguelike 284 Roguelite 173 Indie 116 2D 102 Difficult 86 Adventure 80 Action 78 Magic 76 Early Access 74 Roguelike 63 Procedural Generation 62 RPG 60 Fantasy 55 Simulation 48 Singleplayer 46 Great Soundtrack 44 Action-Adventure 36 Dark Fantasy 30
+8.37,1904,Action 48 Adventure 45 Batman 5
+8.37,5832,Indie 124 Arcade 104 Pixel Graphics 91 Casual 86 Shoot 'Em Up 82 Action 82 Retro 71 2D 69 Space 67 Bullet Hell 66 Shooter 52 Singleplayer 50 Great Soundtrack 49 Score Attack 44 Sci-fi 37 Difficult 35 Survival 34 Family Friendly 30 Controller 29 Replay Value 29
+8.36,7503,VR 121 Simulation 100 Gun Customization 86 Sandbox 79 Shooter 78 Action 74 FPS 62 Early Access 60 Indie 59 Funny 55 Physics 50 Realistic 48 Singleplayer 45 America 33 First-Person 29 Destruction 21 Atmospheric 14 Multiplayer 5
+8.36,4278,Puzzle 414 Relaxing 79 Casual 78 Indie 63 Atmospheric 55 Great Soundtrack 46 Beautiful 34 Singleplayer 17 2D 14
+8.36,7104,Psychological Horror 479 Story Rich 398 Point & Click 354 Horror 341 Puzzle 330 Adventure 325 Dark 270 Indie 260 Atmospheric 243 Female Protagonist 234 Singleplayer 230 Gore 189 Psychological 185 Surreal 164 Fantasy 144 Dark Fantasy 139 Great Soundtrack 123 2D 122 Hand-drawn 109 Hidden Object 89
+8.36,15293,Parkour 241 3D Platformer 233 Relaxing 231 Short 176 Puzzle Platformer 172 Platformer 167 First-Person 163 Casual 161 Open World 157 Atmospheric 153 Stylized 149 Adventure 147 Great Soundtrack 143 Colorful 135 Exploration 129 Singleplayer 126 Family Friendly 55 Cute 53 Beautiful 31
+8.36,3389,Puzzle 151 Indie 118 Programming 117 Automation 103 Simulation 97 Logic 56 Singleplayer 43 Great Soundtrack 30 Building 27 Steampunk 25 Sandbox 23 Difficult 22 2D 20 Early Access 12 Casual 6
+8.35,27190,Precision Platformer 2040 Platformer 1467 Difficult 1186 Indie 1142 2D Platformer 1117 Pixel Graphics 1097 2D 838 Singleplayer 628 Great Soundtrack 613 Fast-Paced 514 Retro 336 Controller 312 Unforgiving 258 Gore 242 Action 216 Time Attack 198 Funny 190 Comedy 142 Side Scroller 131 Replay Value 115
+8.35,139651,Free to Play 16415 Action RPG 2884 Hack and Slash 2585 RPG 2393 Multiplayer 2318 Massively Multiplayer 1761 Loot 1678 MMORPG 1221 Action 1199 Fantasy 1097 Adventure 1048 Dungeon Crawler 1027 Online Co-Op 930 Indie 821 Co-op 810 Dark Fantasy 808 Character Customization 787 PvE 775 Inventory Management 613 Fishing 493
+8.34,83221,Adventure 1417 Action 1077 Lara Croft 988 Female Protagonist 843 Singleplayer 754 Third Person 748 Exploration 724 Open World 658 Action-Adventure 655 Story Rich 613 Survival 608 Puzzle 534 Stealth 449 Atmospheric 435 Third-Person Shooter 409 Parkour 357 Shooter 348 RPG 270 Great Soundtrack 227 Quick-Time Events 208
+8.34,143686,Open World Survival Craft 5121 Sandbox 4513 Survival 3128 Adventure 3079 Space 2970 Crafting 2879 Online Co-Op 2767 Relaxing 2713 Pixel Graphics 2710 Multiplayer 2706 Exploration 2698 Open World 2697 Action 2689 Indie 2684 Atmospheric 2398 RPG 2395 2D 2391 Co-op 2320 Sci-fi 2318 Building 2317
