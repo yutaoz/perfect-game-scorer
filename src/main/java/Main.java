@@ -20,15 +20,18 @@ public class Main {
             line = scan.nextLine();
             StringTokenizer st = new StringTokenizer(line, ",");
             boolean done = false;
+            st.nextToken();
+            int voteCount = Integer.parseInt(st.nextToken().trim());
 
             while (st.hasMoreTokens() && !done) { // for each word in the line, check if it matches tag, if so add the score to total
                 String word = st.nextToken();
                 if (word.equals(tag)) {
-                    count++;
-                    total += Double.parseDouble(line.substring(0,4)); // add the score given (first 3 characters) to total
+                    count += voteCount;
+                    total += Double.parseDouble(line.substring(0,4)) * voteCount; // add the score given (first 3 characters) to total
                     done = true;
                 }
             }
+            System.out.println(voteCount);
         }
         average = total / count;
         return average;
