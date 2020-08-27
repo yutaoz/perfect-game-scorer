@@ -13,6 +13,7 @@ public class Main {
     public static void main(String[] args) throws IOException {
         FileWriter writer = new FileWriter(outputFile);
         String[][] tagScores = new String[301][2]; // 301 unique tags, 2 columns - 1 for the tag and 1 for the score
+        double[] justScores = new double[301];
         Scanner scanner = new Scanner(file1);
         int counter = 0; // counter to add tag to array index
 
@@ -20,9 +21,16 @@ public class Main {
             String tag = scanner.nextLine();
             tagScores[counter][0] = tag; // first column will be the tag
             tagScores[counter][1] = Double.toString(averageScore(tag)); // second column will be score
+            justScores[counter] = averageScore(tag);
             counter++;
         }
-        
+
+        // testing array sort
+        double[] justScores1 = sort(justScores);
+        for (int i = 0; i < justScores1.length; i++) {
+            System.out.println(justScores1[i]);
+        }
+
         // writing tag and score data to output file
         for (int i = 0; i < tagScores.length; i++) {
             writer.write(tagScores[i][0] + " | " + tagScores[i][1] + "\n");
@@ -56,9 +64,21 @@ public class Main {
                     done = true;
                 }
             }
-            System.out.println(voteCount);
         }
         average = total / count;
         return average;
+    }
+
+    public static double[] sort(double[] data) { // sorting algorithm
+        for (int i = 0; i < data.length - 1; i++) {
+            for (int j = 0; j < data.length - i - 1; j++) {
+                if (data[j] < data[j + 1]) {
+                    double temp = data[j];
+                    data[j] = data[j + 1];
+                    data[j + 1] = temp;
+                }
+            }
+        }
+        return data;
     }
 }
