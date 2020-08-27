@@ -6,7 +6,7 @@ import java.util.StringTokenizer;
 public class Main {
     static File file = new File("src\\main\\resources\\data.txt");
     public static void main(String[] args) throws FileNotFoundException {
-        System.out.println(averageScore("tag1"));
+        System.out.println(averageScore("Noir"));
 
     }
 

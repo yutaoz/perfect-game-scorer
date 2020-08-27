@@ -1,250 +1,187 @@
-8.80,208851,tag1
-8.80,580913
-8.79,405964 
-8.74,86849 
-8.73,264959 
-8.73,334743 
-8.71,380504 
-8.71,111977 
-8.70,82364 
-8.69,75009 
-8.68,164642 
-8.68,596159 
-8.68,116641 
-8.66,38133 
-8.66,76660 
-8.64,55444 
-8.63,106643 
-8.63,139621 
-8.62,75202 
-8.61,31750 
-8.61,26576 
-8.61,204267 
-8.60,53367 
-8.60,56073 
-8.60,24201 
-8.60,57103 
-8.59,166696 
-8.59,108124 
-8.59,43091 
-8.59,141183 
-8.59,37468 
-8.59,80028 
-8.58,52840 
-8.58,165541 
-8.58,47691 
-8.57,131463 
-8.56,24310 
-8.55,103113 
-8.55,51392 
-8.55,21612 
-8.55,24059 
-8.55,15411 
-8.55,16825 
-8.55,110262 
-8.55,11763 
-8.55,39243 
-8.55,58357 
-8.54,98415 
-8.54,15799 
-8.53,50298 
-8.53,104097 
-8.52,137149 
-8.52,60834 
-8.52,10313 
-8.52,50558 
-8.51,68437 
-8.51,50764 
-8.51,54981 
-8.51,20063 
-8.51,9339 
-8.50,59351 
-8.50,696126 
-8.50,287647 
-8.50,5030 
-8.50,38828 
-8.50,40330 
-8.50,36954 
-8.49,14217 
-8.49,32489 
-8.49,55947 
-8.49,21969 
-8.49,50847 
-8.49,101332 
-8.49,4586 
-8.48,48814 
-8.48,11168 
-8.48,16586 
-8.48,26436 
-8.48,82513 
-8.48,3859 
-8.48,10100 
-8.48,9531 
-8.48,8088 
-8.47,184338 
-8.47,18267 
-8.47,35372 
-8.46,8014 
-8.46,8683 
-8.46,15544 
-8.46,48014 
-8.46,127793 
-8.46,11447 
-8.46,17121 
-8.46,31717 
-8.46,7712 
-8.45,26601 
-8.45,25070 
-8.45,59331 
-8.45,60281 
-8.45,23103 
-8.45,10252 
-8.44,50028 
-8.44,27661 
-8.44,4368 
-8.44,21354 
-8.44,39683 
-8.44,12470 
-8.44,201236 
-8.44,32050 
-8.44,43555 
-8.44,9598 
-8.43,91683 
-8.43,7139 
-8.43,3649 
-8.43,45650 
-8.43,18879 
-8.43,8460 
-8.43,26144 
-8.42,4289 
-8.42,18667 
-8.42,33607 
-8.42,3807 
-8.42,34708 
-8.42,19526 
-8.42,2750 
-8.42,27997 
-8.42,10170 
-8.42,36464 
-8.41,23285 
-8.41,2970 
-8.41,12526 
-8.41,19191 
-8.41,23363 
-8.41,23371 
-8.41,62772 
-8.41,15030 
-8.40,9723 
-8.40,99475 
-8.40,7703 
-8.40,33644 
-8.40,6883 
-8.40,2859 
-8.40,3719 
-8.40,46744 
-8.40,21975 
-8.40,43894 
-8.39,20433 
-8.39,16945 
-8.39,4175 
-8.39,7768 
-8.39,12988 
-8.39,22287 
-8.39,105297 
-8.39,233298 
-8.39,35046 
-8.39,9742 
-8.38,5234 
-8.38,18880 
-8.38,7752 
-8.38,17885 
-8.38,3279 
-8.38,16536 
-8.38,24000 
-8.38,24000 
-8.38,7588 
-8.38,4974 
-8.37,11834 
-8.37,204874 
-8.37,18311 
-8.37,8039 
-8.37,35884 
-8.37,44136 
-8.37,17554 
-8.37,7784 
-8.37,2444 
-8.37,14959 
-8.37,1904 
-8.37,5832 
-8.36,7503 
-8.36,4278 
-8.36,7104 
-8.36,15293 
-8.36,3389 
-8.35,3421 
-8.35,6614 
-8.35,6692 
-8.35,27190 
-8.35,17864 
-8.35,139651 
-8.35,16711 
-8.35,25797 
-8.35,5586 
-8.34,10501 
-8.34,11589 
-8.34,9413 
-8.34,83221 
-8.34,4163 
-8.34,143686 
-8.34,4053 
-8.34,6663 
-8.34,6079 
-8.34,4874 
-8.34,7793 
-8.33,78767 
-8.33,5393 
-8.33,9661 
-8.33,15848 
-8.33,14129 
-8.33,2152 
-8.33,10020 
-8.33,7588 
-8.33,2810 
-8.33,25106 
-8.33,2021 
-8.32,3710 
-8.32,4663 
-8.32,2596 
-8.32,6404 
-8.32,19240 
-8.32,3663 
-8.32,22364 
-8.32,1411 
-8.32,34881 
-8.32,9089 
-8.32,36646 
-8.32,5896 
-8.32,10796 
-8.32,21562 
-8.32,3163 
-8.32,3276 
-8.32,11412 
-8.32,14053 
-8.31,9104 
-8.31,1408 
-8.31,2167 
-8.31,1399 
-8.31,23401 
-8.31,2766 
-8.31,3013 
-8.30,3397 
-8.30,25925 
-8.30,2801 
-8.30,34660 
-8.30,2514 
-8.30,14213 
-8.30,4879 
-8.30,16174 
-8.30,1512 
-8.30,4211 
-8.30,15717,tag1
+8.80,208851,Platformer,Dark Humor,Puzzle Platformer,First-Person,Story Rich,3D Platformer,Female Protagonist,Action-Adventure,Puzzle,Funny,FPS,Action,Physics,Level Editor,Co-op,Sci-fi,Science,Atmospheric,Comedy,Adventure
+8.80,580913,Open World,Sandbox,Survival,2D,Adventure,Multiplayer,Crafting ,Building,Pixel Graphics,Exploration,Co-op,Indie,Action,Online Co-Op,RPG,Singleplayer,Platformer,Replay Value,Atmospheric
+8.79,405964,Open World,RPG,Story Rich,Atmospheric,Mature,Fantasy,Adventure,Singleplayer,Choices Matter,Nudity,Great Soundtrack,Third Person,Action,Medieval,Multiple Endings,Action RPG,Dark Fantasy,Magic,Dark,Sandbox
+8.74,86849,Automation,Base Building,Resource Management,Sandbox,Crafting,Strategy,Multiplayer,Survival,Management,Open World,Casual,Co-op,2D,Building,Pixel Graphics,Moddable,City Builder,Singleplayer,Simulation,Trains
+8.73,264959,Farming Sim,Life Sim,RPG,Pixel Graphics,Agriculture,Simulation,Relaxing,Multiplayer,Crafting,Sandbox,Indie,Building,Singleplayer,Casual,Open World,Great Soundtrack,2D,Cute,Dating Sim
+8.73,334743,Simulation,Driving,Automobile Sim,Open World,Realistic,Relaxing,Singleplayer,Moddable,Exploration,First-Person,Economy,Atmospheric,Adventure,Indie,Management,Casual,TrackIR,Racing,Sandbox,RPG
+8.71,380504,Zombies,Co-op,FPS,Multiplayer,Shooter,Action,Online Co-Op,Survival,Horror,First-Person,Gore,Team-Based,Survival Horror,Moddable,Post-apocalyptic,Singleplayer,Adventure,Local Co-Op,Replay Value,Tactical
+8.71,111977,Action Roguelike,Roguelike,Indie,Replay Value,Difficult,Pixel Graphics,Dungeon Crawler,Great Soundtrack,Singleplayer,Dark,Remake,2D,Local Co-Op,Gore,Procedural Generation,Roguelite,Atmospheric,Action,Horror,Co-op
+8.70,82364,Colony Sim,Base Building,Survival,Strategy,Sandbox,Management,Building,Simulation,Singleplayer,Open World,Sci-fi,Crafting,Moddable,2D,Indie,Great Soundtrack,Atmospheric,Space,Action,Early Access
+8.69,75009,Puzzle,Puzzle Platformer,3D Platformer,First-Person,Singleplayer,Sci-fi,Comedy,Female Protagonist,Action,Funny,Physics,Story Rich,Platformer,Classic,Science,FPS,Atmospheric,Short,Adventure,Dark Humor
+8.68,164642,Action,FPS,Multiplayer,Shooter,Classic,Team-Based,First-Person,Competitive,Tactical,1990's,eSports,PvP,Old School,Military,Strategy,Survival,Score Attack,1980s,Assassin,Violent
+8.68,596159,Sandbox,Multiplayer,Funny,Moddable,Building,Comedy,Co-op,Mod,First-Person,Simulation,Physics,Online Co-Op,FPS,Singleplayer,Action,Shooter,Animation & Modeling,Indie,Massively Multiplayer,Adventure
+8.68,116641,Medieval,RPG,Open World,Strategy,Sandbox,Action,Multiplayer,Moddable,Military,Adventure,Horses,Singleplayer,Realistic,First-Person,Historical,Third Person,Simulation,Hack and Slash,Fantasy,Indie
+8.66,38133,VR,FPS,Story Rich,Shooter,Horror,Female Protagonist,First-Person,Action,Zombies,Sci-fi,Atmospheric,Beautiful,Psychological Horror,Singleplayer,Adventure,Aliens,Futuristic,Memes,Great Soundtrack,Gore
+8.66,76660,Roguelike Deckbuilder,Card Battler,Card Game,Roguelike,Deckbuilding,Turn-Based,Strategy,Singleplayer,Roguelite,Replay Value,Indie,Difficult,Dungeon Crawler,RPG,Mouse only,Great Soundtrack,2D,Procedural Generation,Fantasy
+8.64,55444,Free to Play,Cute,Demons,Puzzle,Indie,Anime,Great Soundtrack,2D,Singleplayer,Comedy,Short,Adventure,Sexual Content,Difficult,Dating Sim,Rhythm,Funny,Mature,Visual Novel,Hentai
+8.63,106643,FPS,Action,Sci-fi,Classic,Singleplayer,Story Rich,Shooter,First-Person,Adventure,Dystopian,Atmospheric,Zombies,Silent Protagonist,Physics,Aliens,Great Soundtrack,Puzzle,Multiplayer,Horror,Moddable
+8.63,139621,Psychological Horror,Anime,Visual Novel,Free to Play,Horror,Cute,Dating Sim,Dark,Story Rich,Romance,Singleplayer,Great Soundtrack,Gore,Violent,Indie,Memes,First-Person,Sexual Content,Casual,Adventure
+8.62,75202,Zombies,Survival Horror,Horror,Remake,Singleplayer,Third Person,Gore,Action,Atmospheric,Violent,Puzzle,Story Rich,Classic,Survival,Dark,Female Protagonist,Multiplayer,Adventure,Difficult,Shooter
+8.61,31750,Cute,3D Platformer,Collectathon,Great Soundtrack,Female Protagonist,Adventure,Indie,Platformer,Funny,Exploration,Colorful,Third Person,Singleplayer,Open World,Comedy,Moddable,Co-op,Family Friendly,Action
+8.61,26576,Platformer,Pixel Graphics,Action,Great Soundtrack,Cyberpunk,Story Rich,2D Platformer,Indie,2D,Violent,Hack and Slash,Difficult,Singleplayer,Fast-Paced,Time Manipulation,Gore,Retro,Ninja,Noir,Sci-fi
+8.61,204267,Open World,Survival,Multiplayer,Co-op,Adventure,Crafting,Online Co-Op,Sandbox,Difficult,Indie,2D,Funny,Atmospheric,Survival Horror,Strategy,Singleplayer,Horror,Action,Simulation
+8.60,53367,Sexual Content,Hentai,Nudity,Mature,Anime,NSFW,Match 3,Female Protagonist,FPS,Visual Novel,RPG,Dating Sim,Singleplayer,Cute,Story Rich,Puzzle,Adventure,Indie,JRPG,Casual
+8.60,56073,Great Soundtrack,Action,Violent,Indie,Top-Down,1980s,Fast-Paced,Pixel Graphics,Gore,Psychedelic,Retro,Difficult,Singleplayer,Surreal,Shooter,2D,Atmospheric,Addictive,Top-Down Shooter,Music
+8.60,24201,Action Roguelike,Action,Indie,RPG,Roguelite,Hack and Slash,Dungeon Crawler,Roguelike,Singleplayer,Great Soundtrack,Early Access,Mythology,Replay Value,Story Rich,Action RPG,Isometric,Hand-drawn,Atmospheric,Difficult,Perma Death
+8.60,57103,Comedy,Co-op,Funny,Platformer,Multiplayer,Local Co-Op,Adventure,Indie,2D,Action,Great Soundtrack,Online Co-Op,Cats,Casual,Puzzle,Level Editor,Local Multiplayer,Singleplayer,Difficult,Team-Based
+8.59,166696,Adventure,Action,Female Protagonist,Third Person,Lara Croft,Singleplayer,Third-Person Shooter,Story Rich,Multiplayer,Exploration,Quick-Time Events,Action-Adventure,Atmospheric,Shooter,Stealth,Puzzle,Cinematic,Platformer,RPG,Reboot
+8.59,108124,Metroidvania,Souls-like,Platformer,Great Soundtrack,Difficult,2D,Indie,Atmospheric,Exploration,Singleplayer,Adventure,Story Rich,Hand-drawn,Action,Dark Fantasy,Multiple Endings,Cute,Open World,Controller,Side Scroller
+8.59,43091,RPG,Comedy,Adventure,Funny,Turn-Based,Dark Humor,Singleplayer,Action,Mature,2D,Satire,Nudity,Cartoon,Open World,Story Rich,Fantasy,Epic,Turn-Based Strategy,Zombies,JRPG
+8.59,141183,Story Rich,Choices Matter,Great Soundtrack,Female Protagonist,Time Travel,Atmospheric,Episodic,Singleplayer,Adventure,Time Manipulation,Multiple Endings,Mystery,Third Person,Point & Click,Indie,Walking Simulator,Casual,Action,Memes,LGBTQ+
+8.59,37468,Simulation,Funny,Sandbox,War,Strategy,Singleplayer,Action,Physics,Comedy,Medieval,Indie,Casual,Memes,Adventure,Realistic,Difficult,Fighting,1980s,Family Friendly
+8.59,80028,Survival,Open World,Crafting,Adventure,Indie,Singleplayer,Perma Death,Exploration,Multiplayer,Roguelike,Replay Value,Moddable,Simulation,Difficult,2D,Top-Down,Survival Horror,Horror
+8.58,52840,Stealth,First-Person,Action,Steampunk,Assassin,Singleplayer,Atmospheric,Story Rich,Adventure,Multiple Endings,,Magic,Dystopian,FPS,RPG,Replay Value,Fantasy,Open World,Immersive Sim,Shooter
+8.58,165541,Turn-Based Strategy,Strategy,Turn-Based,Multiplayer,Historical,4X,Addictive,Singleplayer,Hex Grid,Grand Strategy,Replay Value,Co-op,Tactical,Economy,Diplomacy,Moddable,Simulation,Classic,Great Soundtrack,Touch-Friendly
+8.58,47691,Cute,Exploration,Adventure,Singleplayer,First-Person,Colorful,Open World,Funny,Simulation,Sandbox,Casual,Fantasy,Management,Indie,Great Soundtrack,Family Friendly,Female Protagonist,Action,FPS
+8.57,13146,Great Soundtrack,Story Rich,Choices Matter,Funny,Multiple Endings,Pixel Graphics,RPG,Singleplayer,Indie,Comedy,2D,Replay Value,Cute,Bullet Hell,Memes,Retro,Dark,Psychological Horror,Dating Sim,Horror
+8.56,24310,Precision Platformer,Platformer,Great Soundtrack,Difficult,Pixel Graphics,Indie,2D Platformer,Female Protagonist,2D,Adventure,Singleplayer,Story Rich,Cute,Action,Puzzle Platformer,Atmospheric,Retro,Side Scroller,Exploration,Funny
+8.55,103113,Open World,RPG,Post-apocalyptic,Singleplayer,Moddable,Exploration,First-Person,Action,Story Rich,Adventure,Sci-fi,FPS,Atmospheric,Western,Action RPG,Survival,Sandbox,Character Customization,Shooter,Third Person
+8.55,51392,Zombies,Adventure,Story Rich,Point & Click,Episodic,Singleplayer,Choices Matter,Drama,Horror,Emotional,Mature,Atmospheric,Choose Your Own Adventure,Comic Book,Post-apocalyptic,Survival,Quick-Time Events,Gore,Action,Third Person
+8.55,21612,Cyberpunk,Visual Novel,Pixel Graphics,LGBTQ+,Dystopian,Story Rich,Simulation,Point & Click,Choices Matter,Female Protagonist,Memes,Adventure,Casual,Transhumanism,Life Sim,2D,Anime,Cute,Funny,Sci-fi
+8.55,24059,Adventure,Detective,Story Rich,Episodic,Point & Click,Noir,Mature,Comic Book,Choose Your Own Adventure,Singleplayer,Atmospheric,Mystery,Dark,Cinematic,Well-Written,Fantasy,Quick-Time Events,Great Soundtrack,Nudity,Action
+8.55,15411,Action,2D Fighter,Fast-Paced,Indie,Beat 'em up,Fighting,Singleplayer,Addictive,Martial Arts,2D,Casual,Difficult,Arcade,Great Soundtrack,Epic,Rhythm,Mouse only,Blood,Gore,Funny
+8.55,16825,Story Rich,Pixel Graphics,Great Soundtrack,Indie,Cute,Atmospheric,Choices Matter,Adventure,Singleplayer,Puzzle,Multiple Endings,RPGMaker,2D,RPG,Replay Value,Surreal,Casual,Exploration,Psychological Horror,Anime
+8.55,110262,Shooter,Action,FPS,Multiplayer,Team-Based,First-Person,Tactical,Competitive,PvP,eSports,Military,War,Strategy,Moddable,Difficult,Singleplayer,Atmospheric,Survival,Simulation,Sandbox
+8.55,11763,Sandbox,Violent,Gore,Simulation,Physics,Casual,Funny,Indie,Blood,Singleplayer,Building,2D,Psychological Horror,Horror,Moddable,Destruction,Pixel Graphics,Action,Multiplayer
+8.55,39243,America,Action,Pixel Graphics,Co-op,2D,Platformer,Local Co-Op,Indie,Multiplayer,Shooter,Side Scroller,Funny,Retro,Gore,Local Multiplayer,Comedy,Adventure,Arcade,Casual,Epic
+8.55,58357,Roguevania,Souls-like,Pixel Graphics,Roguelike,Metroidvania,Action Roguelike,2D,Action,Difficult,Roguelite,Hack and Slash,Replay Value,Platformer,Indie,Singleplayer,Procedural Generation,Great Soundtrack,Side Scroller,Adventure,Perma Death
+8.54,98415,RPG,Choices Matter,Turn-Based Combat,Open World,Story Rich,Co-op Campaign,Crafting,Party-Based RPG,Multiplayer,Fantasy,Character Customization,PvP,Isometric,Moddable,CRPG,Strategy,Turn-Based,Turn-Based Tactics,Female Protagonist,Perma Death
+8.54,15799,Free to Play,2D Fighter,Funny,Action,Fighting,Gore,2D,Indie,Singleplayer,Cartoon,Blood,Survival,Violent,Fast-Paced,Casual,Arcade,Beat 'em up,Cute,Difficult,Co-op
+8.53,50298,Story Rich,Great Soundtrack,Indie,Emotional,Adventure,RPGMaker,Singleplayer,Pixel Graphics,Interactive Fiction,RPG,Romance,Short,2D,Funny,Psychological,Retro,Linear,Cute,Casual,Female Protagonist
+8.53,104097,Third-Person Shooter,Action Roguelike,Multiplayer,Action,Roguelite,Co-op,Looter Shooter,Loot,Roguelike,Shooter,Online Co-Op,Indie,Third Person,Survival,Difficult,Singleplayer,Soundtrack,Early Access,Great Soundtrack,Bullet Hell
+8.52,137149,Survival,Open World,Exploration,Underwater,Crafting,Base Building,Singleplayer,Adventure,Horror,First-Person,Sci-fi,Sandbox,Aliens,Atmospheric,Early Access,Action,Survival Horror,Indie,Multiplayer
+8.52,60834,Difficult,Cartoon,Platformer,Great Soundtrack,Co-op,Hand-drawn,Local Co-Op,2D,Indie,Retro,Cartoony,Multiplayer,Action,Bullet Hell,Shoot 'Em Up,Side Scroller,Colorful,Funny,Singleplayer,Atmospheric
+8.52,10313,Puzzle,Indie,Difficult,Singleplayer,Pixel Graphics,Cute,Logic,2D,Programming,Sokoban,Great Soundtrack,Casual,Psychological Horror,Minimalist
+8.52,50558,FPS,Classic,Action,Sci-fi,Singleplayer,Shooter,First-Person,1990's,Aliens,Multiplayer,Story Rich,Adventure,Silent Protagonist,Atmospheric,Great Soundtrack,Moddable,Retro,Linear,Difficult,Gore
+8.51,68437,Co-op,Action,Multiplayer,Adventure,Local Co-Op,Beat 'em up,Funny,Indie,Online Co-Op,Comedy,Hack and Slash,2D,RPG,Local Multiplayer,Casual,Controller,Great Soundtrack,Fantasy,Side Scroller,Action RPG
+8.51,50764,Colony Sim,Base Building,Survival,Resource Management,Building,Singleplayer,Simulation,Management,2D,Sandbox,Strategy,Space,Indie,Sci-fi,Exploration,Early Access,Open World,Difficult,Adventure,Space Sim
+8.51,54981,Roguelike,Space,Strategy,Sci-fi,Indie,Singleplayer,Perma Death,Difficult,Replay Value,Real-Time with Pause,Great Soundtrack,2D,Simulation,Roguelite,Survival,Adventure,Pixel Graphics,RPG,Atmospheric,Casual
+8.51,20063,Music,Rhythm,Anime,Cute,Casual,Sexual Content,Indie,Action,Female Protagonist,Great Soundtrack,Singleplayer,Funny,Nudity,Arcade,Difficult,2D,Colorful,Beautiful,Mature,Multiplayer
+8.51,9339,FPS,Retro,Horror,Shooter,Lovecraftian,Fast-Paced,Dark Humor,First-Person,1990's,Old School,Action,Great Soundtrack,Classic,Level Editor,Singleplayer,Atmospheric,Bullet Time,PvP,Arena Shooter,Blood
+8.50,59351,Horror,First-Person,Survival Horror,Atmospheric,Gore,Survival,Psychological Horror,Singleplayer,Adventure,Action,Dark,Indie,Stealth,Nudity,Parkour,Difficult,3D Vision,Walking Simulator,Sci-fi,Multiplayer
+8.50,696126,Free to Play,Hero Shooter,Multiplayer,FPS,Shooter,Action,Class-Based,Team-Based,Funny,First-Person,Online Co-Op,Cartoony,Competitive,Trading,Co-op,Comedy,Robots,Tactical,Cartoon,Crafting
+8.50,287647,Open World,RPG,Fantasy,Adventure,Moddable,Dragons,First-Person,Action,Medieval,Singleplayer,Magic,Story Rich,Great Soundtrack,Sandbox,Lore-Rich,Atmospheric,Character Customization,Action RPG,Third Person,Epic
+8.50,5030,Choose Your Own Adventure,Funny,Classic,Memes,Multiple Endings,Comedy,Point & Click,Choices Matter,Singleplayer,Hand-drawn,Family Friendly,2D,Interactive Fiction,Old School,Parody,Adventure,Epic,Casual,Action,Indie
+8.50,38828,VR,Rhythm,Music,Indie,Great Soundtrack,Fast-Paced,Singleplayer,Moddable,First-Person,Difficult,Swordplay,Action,Sports,Memes,Futuristic,Early Access,Multiplayer,Star Wars,Music-Based Procedural Generation,Anime
+8.50,40330,Tower Defense,Zombies,Strategy,Singleplayer,Casual,Comedy,2D,Family Friendly,Great Soundtrack,Classic,Funny,Puzzle,Cute,Indie,Survival,Addictive,Tactical,Touch-Friendly,Adventure,Post-apocalyptic
+8.50,36954,Indie,Political,Simulation,Point & Click,Singleplayer,Dystopian,Pixel Graphics,Puzzle,Retro,Multiple Endings,Story Rich,Atmospheric,2D,Great Soundtrack,Addictive,Strategy,Casual,Adventure,Replay Value,Difficult
+8.49,14217,Puzzle,Mystery,Point & Click,Atmospheric,Adventure,Singleplayer,Indie,Hidden Object,Short,Horror,Casual,First-Person,Beautiful,Steampunk,Dark,Lovecraftian,Touch-Friendly,Psychological Horror,Story Rich,Difficult
+8.49,32489,Beautiful,Atmospheric,Great Soundtrack,Indie,Female Protagonist,Adventure,Hand-drawn,Singleplayer,2D,Platformer,Relaxing,Story Rich,Puzzle,Colorful,Surreal,Puzzle Platformer,Casual,Exploration,Anime,Walking Simulator
+8.49,55947,Open World,Action,Comedy,Co-op,Third-Person Shooter,Funny,Sandbox,Third Person,Character Customization,Online Co-Op,Singleplayer,Great Soundtrack,Shooter,Multiplayer,Crime,Female Protagonist,Adventure,Satire,RPG,Zombies
+8.49,21969,Difficult,Great Soundtrack,Indie,Fast-Paced,Arcade,Addictive,Rhythm,Singleplayer,Score Attack,Action,Minimalist,Music,2D,Psychedelic,Colorful,Casual,Replay Value,Controller,Puzzle,Soundtrack
+8.49,50847,Bullet Hell,Action Roguelike,Roguelike,Pixel Graphics,Difficult,Dungeon Crawler,Indie,Twin Stick Shooter,Local Co-Op,Action,Roguelite,2D,Singleplayer,Top-Down,Multiplayer,Cute,Co-op,Loot,Shooter,Funny
+8.49,101332,FPS,Story Rich,Action,Singleplayer,Steampunk,Atmospheric,Shooter,First-Person,Alternate History,Beautiful,Adventure,Great Soundtrack,Dystopian,Sci-fi,Time Travel,Fantasy,Gore,Linear,RPG,Immersive
+8.49,4586,Adventure,Indie,Cute,Exploration,Relaxing,Pixel Graphics,Nature,3D Platformer,Walking Simulator,Casual,Great Soundtrack,Funny,Singleplayer,Female Protagonist,Short,Open World,Family Friendly,Flight,Third Person,Beautiful
+8.48,48814,Co-op,Class-Based,Multiplayer,FPS,Action,Loot,PvE,First-Person,Looter Shooter,Shooter,Combat,Atmospheric,Online Co-Op,Dark,Procedural Generation,Action Roguelike,Sci-fi,Exploration,Singleplayer,Survival
+8.48,11168,Anime,Free to Play,RPG,Female Protagonist,RPGMaker,Singleplayer,Great Soundtrack,Indie,Story Rich,Action,JRPG,Cute,2D,Pixel Graphics,Fantasy,Action RPG,Multiple Endings,Puzzle,Casual,Nudity
+8.48,16586,Free to Play,Action,Pixel Graphics,2D,Multiplayer,Local Co-Op,Shooter,Co-op,Local Multiplayer,Platformer,Indie,Adventure,Singleplayer,Funny,America,Side Scroller,Controller,Comedy,Classic,Open World
+8.48,26436,JRPG,Great Soundtrack,Anime,Story Rich,RPG,Party-Based RPG,Singleplayer,Turn-Based Combat,Turn-Based Strategy,Mystery,Emotional,Multiple Endings,Detective,Colorful,Adventure,Strategy,Dating Sim,Violent,Sexual Content,Visual Novel
+8.48,82513,Strategy,RTS,Medieval,Multiplayer,Classic,Historical,Base Building,City Builder,Resource Management,Singleplayer,Tactical,Real-Time,Co-op,Competitive,Replay Value,Remake,2D,Isometric,Action,Adventure
+8.48,3859,Casual,Adventure,Visual Novel,Anime,Dating Sim,Romance,Cute,Singleplayer,Story Rich,Multiple Endings
+8.48,10100,Puzzle,Mystery,Atmospheric,Point & Click,Hidden Object,Adventure,Indie,Horror,Singleplayer,Short,Lovecraftian,Psychological Horror,Steampunk,Story Rich,First-Person,Casual,Dark,Great Soundtrack
+8.48,9531,Story Rich,Great Soundtrack,Pixel Graphics,Indie,RPGMaker,Singleplayer,Adventure,RPG,Atmospheric,Emotional,Visual Novel,2D,Interactive Fiction,Comedy,Walking Simulator,Funny,Female Protagonist,Retro,Horror,Point & Click
+8.48,8088,Co-op,Puzzle,Local Co-Op,Multiplayer,VR,Indie,Difficult,Local Multiplayer,Team-Based,Family Friendly,First-Person,Fast-Paced,Funny,Simulation,Action,Asymmetric VR,Atmospheric,Strategy,Party,Party Game
+8.47,184338,Zombies,Horror,Survival Horror,Online Co-Op,Parkour,PvP,First-Person,Open World,PvE,FPS,Action,Gore,Stealth,Survival,Post-apocalyptic,Story Rich,Hack and Slash,Action RPG,RPG
+8.47,18267,Detective,Indie,Simulation,RPG,Puzzle,Mystery,Story Rich,Singleplayer,Horror,Atmospheric,Point & Click,2D,Top-Down
+8.47,35372,Atmospheric,Great Soundtrack,Platformer,Metroidvania,Adventure,Story Rich,Singleplayer,Cute,Action,Fantasy,Difficult,2D,Indie,Puzzle,Side Scroller,Open World,Controller,Family Friendly,2.5D,RPG
+8.46,8014,Action,Metroidvania,Indie,Adventure,Pixel Graphics,2D,Female Protagonist,Anime,Great Soundtrack,Faith,Time Manipulation,Singleplayer,Platformer,Side Scroller,Cute,Action-Adventure,Beat 'em up,Exploration,Controller,Bullet Hell
+8.46,8683,Visual Novel,Story Rich,Anime,Time Travel,Sci-fi,Great Soundtrack,Multiple Endings,Choices Matter,Science,Singleplayer,Adventure,Atmospheric,Mystery,Romance,Thriller,Psychological Horror,Memes,Dating Sim,Casual,Horror
+8.46,15544,Stealth,Platformer,Ninja,Indie,2D,Action,Singleplayer,Side Scroller,Adventure,Assassin,Atmospheric,Controller,Replay Value,Cartoon,Puzzle,Dark,Short,Story Rich,Strategy,Casual
+8.46,48014,Action Roguelike,Roguelike,Indie,Replay Value,Difficult,Procedural Generation,Dark,Action,Top-Down,Great Soundtrack,Addictive,Singleplayer,Adventure,Roguelite,Survival,2D,RPG,Dungeon Crawler,Perma Death,Bullet Hell
+8.46,127793,FPS,Gore,Action,Shooter,Demons,Great Soundtrack,First-Person,Multiplayer,Singleplayer,Fast-Paced,Sci-fi,Horror,Classic,Atmospheric,Difficult,Blood,Remake,Zombies,Co-op,Violent
+8.46,11447,Stealth,Indie,Puzzle,2D,Pixel Graphics,Comedy,Singleplayer,Action,Strategy,Noir,Platformer,Great Soundtrack,Funny,Short,Hacking,Level Editor,GameMaker,Story Rich,Adventure,Sci-fi
+8.46,17121,Strategy,Star Wars,RTS,Space,Sci-fi,Multiplayer,Singleplayer,Moddable,Tactical,Mod,Action,War,Great Soundtrack,Classic,Grand Strategy,Simulation,Co-op,4X,Adventure,Atmospheric
+8.46,31717,Tabletop,Board Game,Simulation,Multiplayer,Sandbox,Card Game,Physics,Casual,Strategy,Moddable,Indie,VR,RPG,Co-op,Online Co-Op,Chess,Singleplayer,Relaxing,Gambling,Strategy RPG
+8.46,7712,Rhythm,Great Soundtrack,Music,Bullet Hell,Indie,Difficult,Action,2D,Multiplayer,Local Multiplayer,Co-op,Singleplayer,Local Co-Op,Online Co-Op,Story Rich,4 Player Local,Fast-Paced,Colorful,Funny,Strategy
+8.45,26601,FPS,War,Singleplayer,Shooter,Action,First-Person,Military,Early Access,Funny,Team-Based,Indie,Sandbox,Strategy,Physics,Tactical,Simulation,Realistic,Atmospheric,Adventure,Moddable
+8.45,25070,Multiplayer,Funny,Pixel Graphics,Local Multiplayer,Action,2D,4 Player Local,Platformer,Indie,Fast-Paced,Comedy,Shooter,Retro,Competitive,Great Soundtrack,Local Co-Op,Memes,Co-op,Casual,1980s
+8.45,59331,Automobile Sim,Simulation,Driving,Open World,America,Realistic,Multiplayer,Singleplayer,Relaxing,Moddable,First-Person,Exploration,Economy,Atmospheric,Adventure,Casual,Indie,Family Friendly,Management,Third Person
+8.45,60281,FPS,Zombies,Co-op,Survival,Horror,Action,Multiplayer,Online Co-Op,Gore,Shooter,Team-Based,First-Person,Survival Horror,Moddable,Great Soundtrack,Class-Based,Singleplayer,Difficult,Comedy,Adventure
+8.45,23103,Nudity,Mature,Sexual Content,Anime,Dating Sim,Puzzle,Match 3,Romance,Singleplayer,Cute,Hentai,Comedy,Indie,Casual,RPG,Story Rich,Strategy,Memes,Great Soundtrack,2D
+8.45,10252,Anime,Sexual Content,Cute,Visual Novel,Nudity,Dating Sim,Romance,Story Rich,Singleplayer,Great Soundtrack,Indie,Hentai,2D,Linear,Atmospheric,Comedy,Cats,Female Protagonist,Adventure,NSFW
+8.44,50028,First-Person,Violent,Comedy,Open World,Sandbox,Moddable,Funny,Dark Humor,Gore,FPS,Action,Classic,Singleplayer,Mature,Adventure,Shooter,Multiplayer,Satire,Indie,Addictive
+8.44,27661,Action,Batman,Stealth,Third Person,Adventure,Superhero,Singleplayer,Open World,Beat 'em up,Detective,Comic Book,Atmospheric,Story Rich,Action-Adventure,Fighting,Controller,Metroidvania,Puzzle,3D Vision,Horror
+8.44,4368,Bullet Hell,Great Soundtrack,Difficult,Shoot 'Em Up,Female Protagonist,Indie,Singleplayer,Faith,Cute,Arcade,2D,Fantasy,Lore-Rich,Story Rich,Cult Classic,Anime,Action,Casual,Family Friendly,Shooter
+8.44,21354,FPS,Action,Sci-fi,Singleplayer,Shooter,Story Rich,First-Person,Classic,Adventure,Aliens,Atmospheric,Zombies,Silent Protagonist,Great Soundtrack,Dystopian,Post-apocalyptic,Episodic,Puzzle,Horror,Multiplayer
+8.44,39683,Visual Novel,Story Rich,Free to Play,Anime,Great Soundtrack,Choices Matter,Singleplayer,Mature,Romance,Nudity,Multiple Endings,2D,Dating Sim,Replay Value,Adventure,Mystery,Comedy,Indie,Classic,Casual
+8.44,12470,Anime,Visual Novel,Mystery,Detective,Story Rich,Great Soundtrack,Singleplayer,Psychological Horror,Adventure,Horror,Dark Comedy,Dark Humor,Puzzle,Point & Click,Funny,Comedy,Exploration,Survival,Action,Memes
+8.44,201236,Survival,Open World,Horror,Crafting,Adventure,Building,Survival Horror,First-Person,Action,Exploration,Sandbox,Atmospheric,Simulation,Singleplayer,Indie,Realistic,Gore,Early Access,Zombies
+8.44,32050,Great Soundtrack,Indie,Action,Narration,Singleplayer,RPG,Hack and Slash,Story Rich,Dynamic Narration,Isometric,Adventure,Action RPG,Fantasy,Atmospheric,Colorful,Post-apocalyptic,2D,Music,Twin Stick Shooter,Controller
+8.44,43555,FPS,Remake,Action,Sci-fi,First-Person,Singleplayer,Shooter,Classic,Story Rich,Atmospheric,Adventure,Great Soundtrack,Zombies,Aliens,Early Access,Multiplayer,Horror,Indie,Mod,Co-op
+8.44,9598,Hentai,Anime,Sexual Content,Nudity,Cute,Visual Novel,Dating Sim,Story Rich,Singleplayer,Casual,Great Soundtrack,Romance,Indie,Atmospheric,NSFW,2D,Adventure,Funny,Replay Value,Cats
+8.43,91683,Difficult,Precision Platformer,Great Soundtrack,Music,Level Editor,Rhythm,2D,Colorful,Singleplayer,Platformer,Character Customization,Arcade,Indie,Side Scroller,Action,Funny,Family Friendly,Casual,Strategy,Adventure
+8.43,7139,Visual Novel,Detective,Story Rich,Great Soundtrack,Anime,Adventure,Mystery,Singleplayer,Puzzle,Funny,Crime,Classic,Point & Click,Cult Classic,Comedy,Conversation,2D,Dynamic Narration,Casual,Memes
+8.43,3649,Casual,Indie,Building,Sandbox,Simulation,City Builder,Early Access,Atmospheric,Relaxing,Singleplayer,Colorful,Cute,Beautiful
+8.43,45650,Simulation,Driving,Destruction,Physics,Automobile Sim,Realistic,Racing,Open World,Sandbox,Moddable,Singleplayer,Early Access,First-Person,Funny,Third Person,Multiplayer,Action,Adventure,Casual,Free to Play
+8.43,18879,Rhythm,Perma Death,Mystery Dungeon,Dungeon Crawler,Roguelike,Roguelite,Difficult,Top-Down,Music-Based Procedural Generation,Female Protagonist,RPG,2D,Procedural Generation,Action,Pixel Graphics,Magic,Fantasy,Medieval,Dark Fantasy,Hack and Slash
+8.43,8460,Anime,Cute,Bullet Hell,Metroidvania,Female Protagonist,Pixel Graphics,Great Soundtrack,Action,Adventure,Difficult,Indie,Platformer,2D,Singleplayer,Side Scroller,Casual,Shoot 'Em Up,RPG,Crowdfunded,Story Rich
+8.43,26144,Adventure,Puzzle,Dark,Atmospheric,Story Rich,Platformer,Action-Adventure,Indie,Survival,Horror,Action,Puzzle Platformer,Singleplayer,Survival Horror,Psychological Horror,Mystery,Stealth,Dystopian,Great Soundtrack,Sci-fi
+8.42,4289,Indie,Casual,Emotional,Great Soundtrack,Relaxing,Cute,Experimental,Atmospheric,Multiplayer,Colorful,Asynchronous Multiplayer
+8.42,18667,Automation,Base Building,Resource Management,Co-op,Crafting,Open World,Building,Multiplayer,Exploration,Sandbox,Adventure,Strategy,Simulation,Early Access,Indie,Survival,First-Person,Singleplayer,Sci-fi
+8.42,33607,Action,Batman,Open World,Stealth,Adventure,Third Person,Superhero,Singleplayer,Beat 'em up,Comic Book,Detective,Story Rich,Fighting,Atmospheric,Action-Adventure,Cinematic,Controller,3D Vision,Metroidvania,Sandbox
+8.42,3807,Visual Novel,Anime,Story Rich,Romance,Drama,Great Soundtrack,Singleplayer,Classic,Multiple Endings,Cute,Dating Sim,Choices Matter,Casual,Adventure,Atmospheric,Emotional,Comedy,Family Friendly,2D,Sexual Content
+8.42,34708,Strategy,Tower Defense,Singleplayer,Co-op,Multiplayer,Online Co-Op,Family Friendly,Casual,3D,Sandbox,Cartoony,Funny,Difficult,Great Soundtrack,Action,Survival,Cute,2D,Indie,Adventure
+8.42,19526,Action,Indie,Shooter,Violent,Parkour,Bullet Time,Great Soundtrack,Gore,Singleplayer,Side Scroller,Platformer,Fast-Paced,Funny,Comedy,2.5D,Blood,2D,Physics,Controller,Multiplayer
+8.42,2750,Casual,Adventure,Visual Novel,Story Rich,Anime,Great Soundtrack,Cute,Multiple Endings,Romance,Dating Sim,Singleplayer
+8.42,27997,Zombies,Co-op,Multiplayer,FPS,Action,Shooter,Online Co-Op,Horror,Team-Based,First-Person,Survival,Post-apocalyptic,Singleplayer,Atmospheric,Adventure,Tactical,Moddable,Competitive,Replay Value,Female Protagonist
+8.42,10170,Anime,Detective,Visual Novel,Mystery,Story Rich,Great Soundtrack,Singleplayer,Psychological Horror,Adventure,Dark Comedy,Horror,Atmospheric,Puzzle,Dark,Memes,Comedy,Dating Sim,Mature,Funny,Walking Simulator
+8.42,36464,Building,Sandbox,Physics,Destruction,Medieval,Simulation,Singleplayer,Strategy,Indie,Early Access,Funny,Puzzle,Multiplayer,Blood,Action,Casual,Open World,Third Person,Gore,Adventure
+8.41,23285,Zombies,Adventure,Story Rich,Episodic,Point & Click,Singleplayer,Female Protagonist,Drama,Atmospheric,Choices Matter,Horror,Choose Your Own Adventure,Comic Book,Emotional,Mature,Survival,Cinematic,Post-apocalyptic,Action,Quick-Time Events
+8.41,2970,Funny,JRPG,Comedy,RPG,Adventure,Turn-Based,Strategy,Great Soundtrack,Turn-Based Combat,Singleplayer,Indie,2D,Anime,Fantasy,Parody,Cats,Sexual Content,Epic,Casual
+8.41,12526,Platformer,Pixel Graphics,Retro,Great Soundtrack,Indie,2D,Adventure,Action,Singleplayer,Difficult,Side Scroller,Kickstarter,Fantasy,Old School,Medieval,Funny,Comedy,Arcade,RPG,Metroidvania
+8.41,19191,Stealth,Strategy,Tactical,Ninja,Real Time Tactics,Indie,Singleplayer,Isometric,Action,Historical,RTS,Assassin,Difficult,Violent,Atmospheric,Third Person,Survival,Adventure,Great Soundtrack,Puzzle
+8.41,23363,Horror,Atmospheric,Story Rich,Sci-fi,Psychological Horror,First-Person,Singleplayer,Adventure,Survival Horror,Underwater,Robots,Indie,Stealth,Walking Simulator,Action,Puzzle,Great Soundtrack,Survival,Gore,Moddable
+8.41,23371,Metroidvania,RPG,Action,Female Protagonist,Adventure,Anime,Side Scroller,2.5D,Platformer,Great Soundtrack,Gothic,Dark Fantasy,Exploration,Crafting,Singleplayer,Nudity,2D,Difficult,Sexual Content,Multiplayer
+8.41,62772,Survival,War,Atmospheric,Singleplayer,Strategy,Simulation,Choices Matter,Crafting,Story Rich,Indie,Base Building,Management,Emotional,Realistic,Resource Management,Drama,Post-apocalyptic,Stealth,Psychological,2.5D
+8.41,15030,Atmospheric,Open World,Post-apocalyptic,FPS,Survival,Action,Singleplayer,RPG,Shooter,Survival Horror,First-Person,Moddable,Horror,Zombies,Classic,Adventure,Sci-fi,Multiplayer,Sandbox,Immersive
+8.40,9723,Detective,Mystery,Story Rich,Puzzle,Singleplayer,Atmospheric,Indie,Great Soundtrack,Adventure,Historical,Multiple Endings,First-Person,Difficult,Naval,Retro,Violent,Pirates,Horror,Walking Simulator,Noir
+8.40,99475,Souls-like,Difficult,Action,Singleplayer,Ninja,Stealth,Adventure,Third Person,Atmospheric,Story Rich,Violent,Dark Fantasy,Open World,Assassin,Great Soundtrack,Hack and Slash,Gore,RPG,Dark,Rhythm
+8.40,7703,Puzzle,Casual,Indie,Minimalist,Short,Relaxing,Singleplayer,2D,Great Soundtrack,Difficult,Atmospheric,Logic
+8.40,33644,Simulation,Management,Indie,Strategy,Casual,Singleplayer,Economy,2D,Moddable,Addictive,Replay Value,Sandbox,GameMaker,Funny,Point & Click,Difficult,Great Soundtrack,Comedy,Touch-Friendly,Isometric
+8.40,6883,Puzzle,Hand-drawn,Indie,Adventure,Casual,Atmospheric,Singleplayer,Beautiful,Stylized,Short,2D,Story Rich,Exploration,Interactive Fiction,Mystery,Cartoony,Point & Click,Great Soundtrack
+8.40,2859,Adventure,Indie,Casual,Point & Click,Comedy,Funny,Story Rich,Pixel Graphics,Singleplayer,2D,Parody,Romance,Narration,Simulation,Remake,Interactive Fiction,Anime,RPG,Great Soundtrack,Action
+8.40,3719,Free to Play,Pixel Graphics,RPG,Adventure,Indie,Cute,Singleplayer,Story Rich,Multiple Endings,Turn-Based,RPGMaker,Female Protagonist,Great Soundtrack,2D
+8.40,46744,Action,Hack and Slash,Great Soundtrack,Demons,Character Action Game,Spectacle fighter,Third Person,Singleplayer,Violent,Classic,Stylized,Gore,Story Rich,Multiplayer,Nudity,Difficult,Controller,Adventure,Anime,Co-op
+8.40,21975,Puzzle,Philosophical,First-Person,Sci-fi,Atmospheric,Story Rich,Singleplayer,Great Soundtrack,Robots,Adventure,Exploration,Indie,Open World,Multiple Endings,Difficult,Action,Post-apocalyptic,Mystery,Simulation,Science
+8.40,43894,Action,Open World,Crime,Story Rich,Atmospheric,Singleplayer,Third Person,Third-Person Shooter,Shooter,Automobile Sim,Great Soundtrack,Adventure,Driving,America,Classic,Music,Nudity,Multiplayer,Sandbox,3D Vision
+8.39,20433,Hentai,Anime,Nudity,Mature,Sexual Content,Visual Novel,Cute,Dating Sim,Singleplayer,Story Rich,Romance,Casual,Indie,Great Soundtrack,Funny,Cats,Linear,NSFW,Atmospheric,Female Protagonist
+8.39,16945,Multiplayer,Funny,Platformer,Level Editor,Precision Platformer,Local Multiplayer,4 Player Local,Competitive,Casual,Indie,2D,Parkour,Difficult,Cute,Family Friendly,2D Platformer,Co-op,Controller,Online Co-Op,Cartoony
+8.39,4175,Cute,Funny,Souls-like,Action,Anime,Female Protagonist,Indie,Magic,Difficult,Third Person,Early Access,Fantasy,Adventure,Third-Person Shooter,RPG,Singleplayer,Psychological Horror
+8.39,7768,Strategy,RTS,Sci-fi,Multiplayer,Singleplayer,Grand Strategy,Base Building,Co-op,Moddable,Real-Time with Pause,Robots,Competitive,Real-Time,Action,Online Co-Op,Classic,Space,Great Soundtrack,Adventure,War
+8.39,12988,Action Roguelike,Roguelike,Indie,Pixel Graphics,Difficult,Bullet Hell,Action,Roguelite,Top-Down Shooter,Great Soundtrack,Post-apocalyptic,Shooter,Local Co-Op,Singleplayer,2D,Top-Down,Perma Death,Twin Stick Shooter,RPG,Local Multiplayer
+8.39,22287,FPS,Multiplayer,Action,Shooter,Singleplayer,Mechs,Sci-fi,First-Person,Futuristic,Parkour,PvP,Military,Combat,Team-Based,Time Travel,Hero Shooter,Violent,Gore,RTS,Fast-Paced
+8.39,105297,Funny,Multiplayer,Co-op,Puzzle,Physics,Adventure,Indie,Local Co-Op,Comedy,Parkour,Local Multiplayer,Puzzle Platformer,Sandbox,Open World,Casual,Singleplayer,3D Platformer,Split Screen,Simulation,Survival
+8.39,233298,Loot,Shooter,Action,Multiplayer,Co-op,Looter Shooter,FPS,RPG,First-Person,Funny,Comedy,Open World,Combat,Online Co-Op,Adventure,Action RPG,Dark Humor,Memes,Singleplayer,Sci-fi
+8.39,35046,Action,Metroidvania,Great Soundtrack,Beautiful,Platformer,Singleplayer,Atmospheric,Adventure,Story Rich,Cute,Exploration,Action-Adventure,Puzzle,Difficult,Indie,Emotional,Fantasy,Open World,Souls-like,2D
+8.39,9742,Strategy,Puzzle,Minimalist,Simulation,Indie,Trains,Singleplayer,Casual,Management,Relaxing,2D,Touch-Friendly,Transportation,Building,Difficult,Mouse only,Great Soundtrack,Addictive,Replay Value,Top-Down
+8.38,5234,Tower Defense,Strategy,Resource Management,Base Building,Multiplayer,Sandbox,Co-op,Building,Automation,2D,Indie,Pixel Graphics,Online Co-Op,PvP,RTS,PvE,Singleplayer,Action
+8.38,18880,Puzzle Platformer,Platformer,Adventure,Action,Beautiful,2D Platformer,Puzzle,Co-op,Fantasy,Indie,Online Co-Op,Local Co-Op,Multiplayer,Physics,Great Soundtrack,Singleplayer,Atmospheric,2D,RPG,Casual
+8.38,7752,Strategy,Medieval,Colony Sim,RTS,Multiplayer,City Builder,Classic,Tactical,Historical,Economy,Simulation,Singleplayer,Building,Sandbox,Adventure,Co-op,Action,2D,Great Soundtrack,Remake
+8.38,17885,Free to Play,Horror,Difficult,Survival Horror,Singleplayer,Robots,Strategy,First-Person,Survival,Dark,Indie,Point & Click,Action,Story Rich,Psychological Horror,Atmospheric,Memes,Character Customization,Funny,Simulation
+8.38,3279,Free to Play,Adventure,Indie,RPG,Pixel Graphics,Detective,Noir,Story Rich,Singleplayer,Point & Click,Atmospheric,Great Soundtrack,Dystopian,Cinematic,2.5D,Retro,Mystery,Dark
+8.38,16536,Action,Platformer,Metroidvania,Indie,RPG,Adventure,2D,Singleplayer,Fantasy,Great Soundtrack,Beat 'em up,Hack and Slash,Exploration,Story Rich,Controller,Beautiful,Anime,Side Scroller,Atmospheric,Action RPG
+8.38,24000,RPG,Open World,Fantasy,Singleplayer,Moddable,First-Person,Adventure,Exploration,Great Soundtrack,Action,Magic,Character Customization,Story Rich,Atmospheric,Sandbox,Medieval,Classic,Action RPG,Third Person,Dark Fantasy
+8.38,24000,RPG,Open World,Fantasy,Singleplayer,Moddable,First-Person,Adventure,Exploration,Great Soundtrack,Action,Magic,Character Customization,Story Rich,Atmospheric,Sandbox,Medieval,Classic,Action RPG,Third Person,Dark Fantasy
+8.38,7588,Action,Robots,3D Fighter,Swordplay,Fighting,Indie,Early Access,Funny,Singleplayer,Multiplayer,Pixel Graphics,Voxel,Futuristic,Third Person,Difficult,Comedy,Survival,Philosophical,Dark Humor,Roguelike
+8.38,4974,RPG,Comedy,Adventure,Funny,Western,Indie,Singleplayer,Story Rich,Open World,Replay Value,Choices Matter,Great Soundtrack,Puzzle,Turn-Based,Turn-Based Combat,Turn-Based Strategy,Character Customization,2D,Point & Click,Memes
+8.37,11834,RPG,Roguelite,Action Roguelike,Pixel Graphics,Action,Indie,Multiplayer,Roguelike,Adventure,Co-op,Funny,Local Co-Op,Stealth,Great Soundtrack,Early Access,Online Co-Op,2D,Procedural Generation,Violent,Gore
+8.37,204874,Souls-like,Dark Fantasy,Difficult,RPG,Atmospheric,Lore-Rich,Third Person,Exploration,Story Rich,Co-op,Action RPG,PvP,Adventure,Action,Great Soundtrack,Multiplayer,Open World,Singleplayer,Replay Value,Character Customization
+8.37,18311,Atmospheric,Historical,World War I,Adventure,War,Story Rich,Drama,2D,Great Soundtrack,Puzzle,Singleplayer,Emotional,Dog,Side Scroller,Platformer,Action,Education,Comic Book,Music,Indie
+8.37,8039,Card Battler,Deckbuilding,Roguelite,Difficult,Card Game,PvP,Roguelike,Strategy,RPG,Turn-Based Combat,Turn-Based Tactics,Choices Matter,Procedural Generation,Colorful,Tower Defense,Fantasy,Trains,Multiplayer,Roguelike Deckbuilder,Singleplayer
+8.37,35884,Adventure,Atmospheric,Story Rich,Controller,Indie,Emotional,Puzzle,Short,Fantasy,Singleplayer,Beautiful,Great Soundtrack,Action,Local Co-Op,Platformer,Third Person,Casual,Multiplayer,3D Vision,Colorful
+8.37,44136,Turn-Based Strategy,Tactical,Strategy,Sci-fi,Turn-Based,Aliens,Singleplayer,Base Building,Turn-Based Tactics,Unforgiving,Replay Value,Addictive,Perma Death,Multiplayer,Character Customization,Difficult,RPG,Action,Atmospheric,Futuristic
+8.37,17554,Atmospheric,Post-apocalyptic,Open World,FPS,Survival,Action,RPG,Shooter,Survival Horror,Horror,First-Person,Singleplayer,Classic,Based On A Novel,Moddable,Adventure,Sci-fi,Immersive,Inventory Management,Difficult
+8.37,7784,Indie,Flight,Relaxing,Casual,Atmospheric,Procedural Generation,Singleplayer,Action,Sports,Racing,Physics,Exploration,Open World,Arcade,Parkour,Simulation,Fast-Paced,Score Attack,Difficult,Multiplayer
+8.37,2444,Indie,Action Roguelike,Action,Arcade,Space,Roguelite,Shooter,Early Access,Replay Value,Shoot 'Em Up,Arena Shooter,2D,Bullet Hell,Great Soundtrack,Retro,Roguelike,Singleplayer,Action RPG,Colorful,Casual
+8.37,14959,Pixel Graphics,Physics,Action Roguelike,Roguelite,Indie,2D,Difficult,Adventure,Action,Magic,Early Access,Roguelike,Procedural Generation,RPG,Fantasy,Simulation,Singleplayer,Great Soundtrack,Action-Adventure,Dark Fantasy
+8.37,1904,Action,Adventure,Batman
+8.37,5832,Indie,Arcade,Pixel Graphics,Casual,Shoot 'Em Up,Action,Retro,2D,Space,Bullet Hell,Shooter,Singleplayer,Great Soundtrack,Score Attack,Sci-fi,Difficult,Survival,Family Friendly,Controller,Replay Value
+8.36,7503,VR,Simulation,Gun Customization,Sandbox,Shooter,Action,FPS,Early Access,Indie,Funny,Physics,Realistic,Singleplayer,America,First-Person,Destruction,Atmospheric,Multiplayer
+8.36,4278,Puzzle,Relaxing,Casual,Indie,Atmospheric,Great Soundtrack,Beautiful,Singleplayer,2D
+8.36,7104,Psychological Horror,Story Rich,Point & Click,Horror,Puzzle,Adventure,Dark,Indie,Atmospheric,Female Protagonist,Singleplayer,Gore,Psychological,Surreal,Fantasy,Dark Fantasy,Great Soundtrack,2D,Hand-drawn,Hidden Object
+8.36,15293,Parkour,3D Platformer,Relaxing,Short,Puzzle Platformer,Platformer,First-Person,Casual,Open World,Atmospheric,Stylized,Adventure,Great Soundtrack,Colorful,Exploration,Singleplayer,Family Friendly,Cute,Beautiful
+8.36,3389,Puzzle,Indie,Programming,Automation,Simulation,Logic,Singleplayer,Great Soundtrack,Building,Steampunk,Sandbox,Difficult,2D,Early Access,Casual
+8.35,27190,Precision Platformer,Platformer,Difficult,Indie,2D Platformer,Pixel Graphics,2D,Singleplayer,Great Soundtrack,Fast-Paced,Retro,Controller,Unforgiving,Gore,Action,Time Attack,Funny,Comedy,Side Scroller,Replay Value
+8.35,139651,Free to Play,Action RPG,Hack and Slash,RPG,Multiplayer,Massively Multiplayer,Loot,MMORPG,Action,Fantasy,Adventure,Dungeon Crawler,Online Co-Op,Indie,Co-op,Dark Fantasy,Character Customization,PvE,Inventory Management,Fishing
+8.34,83221,Adventure,Action,Lara Croft,Female Protagonist,Singleplayer,Third Person,Exploration,Open World,Action-Adventure,Story Rich,Survival,Puzzle,Stealth,Atmospheric,Third-Person Shooter,Parkour,Shooter,RPG,Great Soundtrack,Quick-Time Events
+8.34,143686,Sandbox,Survival,Adventure,Space,Crafting,Online Co-Op,Relaxing,Pixel Graphics,Multiplayer,Exploration,Open World,Action,Indie,Atmospheric,RPG,2D,Co-op,Sci-fi,Building
