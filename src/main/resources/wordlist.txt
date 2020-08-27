@@ -1,3 +1,5 @@
+Action
+2D
 Platformer
 Dark Humor
 Puzzle Platformer
@@ -9,7 +11,6 @@ Action-Adventure
 Puzzle
 Funny
 FPS
-Action
 Physics
 Level Editor
 Co-op
@@ -21,2213 +22,280 @@ Adventure
 Open World
 Sandbox
 Survival
-2D
-Adventure
 Multiplayer
 Crafting 
 Building
 Pixel Graphics
 Exploration
-Co-op
 Indie
-Action
 Online Co-Op
 RPG
 Singleplayer
 Replay Value
-Atmospheric
-Open World
-RPG
-Story Rich
-Atmospheric
 Mature
 Fantasy
-Adventure
-Singleplayer
 Choices Matter
 Nudity
 Great Soundtrack
 Third Person
-Action
 Medieval
 Multiple Endings
 Action RPG
 Dark Fantasy
 Magic
 Dark
-Sandbox
 Automation
 Base Building
 Resource Management
-Sandbox
 Crafting
 Strategy
-Multiplayer
-Survival
 Management
-Open World
 Casual
-Co-op
-2D
-Building
-Pixel Graphics
 Moddable
 City Builder
-Singleplayer
 Simulation
 Trains
 Farming Sim
 Life Sim
-RPG
-Pixel Graphics
 Agriculture
-Simulation
 Relaxing
-Multiplayer
-Crafting
-Sandbox
-Indie
-Building
-Singleplayer
-Casual
-Open World
-Great Soundtrack
-2D
 Cute
 Dating Sim
-Simulation
 Driving
 Automobile Sim
-Open World
 Realistic
-Relaxing
-Singleplayer
-Moddable
-Exploration
-First-Person
 Economy
-Atmospheric
-Adventure
-Indie
-Management
-Casual
 TrackIR
 Racing
-Sandbox
-RPG
 Zombies
-Co-op
-FPS
-Multiplayer
 Shooter
-Action
-Online Co-Op
-Survival
 Horror
-First-Person
 Gore
 Team-Based
 Survival Horror
-Moddable
 Post-apocalyptic
-Singleplayer
-Adventure
 Local Co-Op
-Replay Value
 Tactical
 Action Roguelike
 Roguelike
-Indie
-Replay Value
 Difficult
-Pixel Graphics
 Dungeon Crawler
-Great Soundtrack
-Singleplayer
-Dark
 Remake
-2D
-Local Co-Op
-Gore
 Procedural Generation
 Roguelite
-Atmospheric
-Action
-Horror
-Co-op
 Colony Sim
-Base Building
-Survival
-Strategy
-Sandbox
-Management
-Building
-Simulation
-Singleplayer
-Open World
-Sci-fi
-Crafting
-Moddable
-2D
-Indie
-Great Soundtrack
-Atmospheric
 Space
-Action
 Early Access
-Puzzle
-Puzzle Platformer
-3D Platformer
-First-Person
-Singleplayer
-Sci-fi
-Comedy
-Female Protagonist
-Action
-Funny
-Physics
-Story Rich
 Classic
-Science
-FPS
-Atmospheric
 Short
-Adventure
-Dark Humor
-Action
-FPS
-Multiplayer
-Shooter
-Classic
-Team-Based
-First-Person
 Competitive
-Tactical
 1990's
 eSports
 PvP
 Old School
 Military
-Strategy
-Survival
 Score Attack
 1980s
 Assassin
 Violent
-Sandbox
-Multiplayer
-Funny
-Moddable
-Building
-Comedy
-Co-op
 Mod
-First-Person
-Simulation
-Physics
-Online Co-Op
-FPS
-Singleplayer
-Action
-Shooter
 Animation & Modeling
-Indie
 Massively Multiplayer
-Adventure
-Medieval
-RPG
-Open World
-Strategy
-Sandbox
-Action
-Multiplayer
-Moddable
-Military
-Adventure
 Horses
-Singleplayer
-Realistic
-First-Person
 Historical
-Third Person
-Simulation
 Hack and Slash
-Fantasy
-Indie
 VR
-FPS
-Story Rich
-Shooter
-Horror
-Female Protagonist
-First-Person
-Action
-Zombies
-Sci-fi
-Atmospheric
 Beautiful
 Psychological Horror
-Singleplayer
-Adventure
 Aliens
 Futuristic
 Memes
-Great Soundtrack
-Gore
 Roguelike Deckbuilder
 Card Battler
 Card Game
-Roguelike
 Deckbuilding
 Turn-Based
-Strategy
-Singleplayer
-Roguelite
-Replay Value
-Indie
-Difficult
-Dungeon Crawler
-RPG
 Mouse only
-Great Soundtrack
-2D
-Procedural Generation
-Fantasy
 Free to Play
-Cute
 Demons
-Puzzle
-Indie
 Anime
-Great Soundtrack
-2D
-Singleplayer
-Comedy
-Short
-Adventure
 Sexual Content
-Difficult
-Dating Sim
 Rhythm
-Funny
-Mature
 Visual Novel
 Hentai
-FPS
-Action
-Sci-fi
-Classic
-Singleplayer
-Story Rich
-Shooter
-First-Person
-Adventure
 Dystopian
-Atmospheric
-Zombies
 Silent Protagonist
-Physics
-Aliens
-Great Soundtrack
-Puzzle
-Multiplayer
-Horror
-Moddable
-Psychological Horror
-Anime
-Visual Novel
-Free to Play
-Horror
-Cute
-Dating Sim
-Dark
-Story Rich
 Romance
-Singleplayer
-Great Soundtrack
-Gore
-Violent
-Indie
-Memes
-First-Person
-Sexual Content
-Casual
-Adventure
-Zombies
-Survival Horror
-Horror
-Remake
-Singleplayer
-Third Person
-Gore
-Action
-Atmospheric
-Violent
-Puzzle
-Story Rich
-Classic
-Survival
-Dark
-Female Protagonist
-Multiplayer
-Adventure
-Difficult
-Shooter
-Cute
-3D Platformer
 Collectathon
-Great Soundtrack
-Female Protagonist
-Adventure
-Indie
-Funny
-Exploration
 Colorful
-Third Person
-Singleplayer
-Open World
-Comedy
-Moddable
-Co-op
 Family Friendly
-Action
-Pixel Graphics
-Action
-Great Soundtrack
 Cyberpunk
-Story Rich
 2D Platformer
-Indie
-2D
-Violent
-Hack and Slash
-Difficult
-Singleplayer
 Fast-Paced
 Time Manipulation
-Gore
 Retro
 Ninja
 Noir
-Sci-fi
-Open World
-Survival
-Multiplayer
-Co-op
-Adventure
-Crafting
-Online Co-Op
-Sandbox
-Difficult
-Indie
-2D
-Funny
-Atmospheric
-Survival Horror
-Strategy
-Singleplayer
-Horror
-Action
-Simulation
-Sexual Content
-Hentai
-Nudity
-Mature
-Anime
 NSFW
 Match 3
-Female Protagonist
-FPS
-Visual Novel
-RPG
-Dating Sim
-Singleplayer
-Cute
-Story Rich
-Puzzle
-Adventure
-Indie
 JRPG
-Casual
-Great Soundtrack
-Action
-Violent
-Indie
 Top-Down
-1980s
-Fast-Paced
-Pixel Graphics
-Gore
 Psychedelic
-Retro
-Difficult
-Singleplayer
 Surreal
-Shooter
-2D
-Atmospheric
 Addictive
 Top-Down Shooter
 Music
-Action Roguelike
-Action
-Indie
-RPG
-Roguelite
-Hack and Slash
-Dungeon Crawler
-Roguelike
-Singleplayer
-Great Soundtrack
-Early Access
 Mythology
-Replay Value
-Story Rich
-Action RPG
 Isometric
 Hand-drawn
-Atmospheric
-Difficult
 Perma Death
-Comedy
-Co-op
-Funny
-Multiplayer
-Local Co-Op
-Adventure
-Indie
-2D
-Action
-Great Soundtrack
-Online Co-Op
 Cats
-Casual
-Puzzle
-Level Editor
 Local Multiplayer
-Singleplayer
-Difficult
-Team-Based
-Adventure
-Action
-Female Protagonist
-Third Person
 Lara Croft
-Singleplayer
 Third-Person Shooter
-Story Rich
-Multiplayer
-Exploration
 Quick-Time Events
-Action-Adventure
-Atmospheric
-Shooter
 Stealth
-Puzzle
 Cinematic
-RPG
 Reboot
 Metroidvania
 Souls-like
-Great Soundtrack
-Difficult
-2D
-Indie
-Atmospheric
-Exploration
-Singleplayer
-Adventure
-Story Rich
-Hand-drawn
-Action
-Dark Fantasy
-Multiple Endings
-Cute
-Open World
 Controller
 Side Scroller
-RPG
-Comedy
-Adventure
-Funny
-Turn-Based
-Dark Humor
-Singleplayer
-Action
-Mature
-2D
 Satire
-Nudity
 Cartoon
-Open World
-Story Rich
-Fantasy
 Epic
 Turn-Based Strategy
-Zombies
-JRPG
-Story Rich
-Choices Matter
-Great Soundtrack
-Female Protagonist
 Time Travel
-Atmospheric
 Episodic
-Singleplayer
-Adventure
-Time Manipulation
-Multiple Endings
 Mystery
-Third Person
 Point & Click
-Indie
 Walking Simulator
-Casual
-Action
-Memes
 LGBTQ+
-Simulation
-Funny
-Sandbox
 War
-Strategy
-Singleplayer
-Action
-Physics
-Comedy
-Medieval
-Indie
-Casual
-Memes
-Adventure
-Realistic
-Difficult
 Fighting
-1980s
-Family Friendly
-Survival
-Open World
-Crafting
-Adventure
-Indie
-Singleplayer
-Perma Death
-Exploration
-Multiplayer
-Roguelike
-Replay Value
-Moddable
-Simulation
-Difficult
-2D
-Top-Down
-Survival Horror
-Horror
-Stealth
-First-Person
-Action
 Steampunk
-Assassin
-Singleplayer
-Atmospheric
-Story Rich
-Adventure
-Multiple Endings
-Magic
-Dystopian
-FPS
-RPG
-Replay Value
-Fantasy
-Open World
 Immersive Sim
-Shooter
-Turn-Based Strategy
-Strategy
-Turn-Based
-Multiplayer
-Historical
 4X
-Addictive
-Singleplayer
 Hex Grid
 Grand Strategy
-Replay Value
-Co-op
-Tactical
-Economy
 Diplomacy
-Moddable
-Simulation
-Classic
-Great Soundtrack
 Touch-Friendly
-Cute
-Exploration
-Adventure
-Singleplayer
-First-Person
-Colorful
-Open World
-Funny
-Simulation
-Sandbox
-Casual
-Fantasy
-Management
-Indie
-Great Soundtrack
-Family Friendly
-Female Protagonist
-Action
-FPS
-Great Soundtrack
-Story Rich
-Choices Matter
-Funny
-Multiple Endings
-Pixel Graphics
-RPG
-Singleplayer
-Indie
-Comedy
-2D
-Replay Value
-Cute
 Bullet Hell
-Memes
-Retro
-Dark
-Psychological Horror
-Dating Sim
-Horror
 Precision Platformer
-Great Soundtrack
-Difficult
-Pixel Graphics
-Indie
-2D Platformer
-Female Protagonist
-2D
-Adventure
-Singleplayer
-Story Rich
-Cute
-Action
-Puzzle Platformer
-Atmospheric
-Retro
-Side Scroller
-Exploration
-Funny
-Open World
-RPG
-Post-apocalyptic
-Singleplayer
-Moddable
-Exploration
-First-Person
-Action
-Story Rich
-Adventure
-Sci-fi
-FPS
-Atmospheric
 Western
-Action RPG
-Survival
-Sandbox
 Character Customization
-Shooter
-Third Person
-Zombies
-Adventure
-Story Rich
-Point & Click
-Episodic
-Singleplayer
-Choices Matter
 Drama
-Horror
 Emotional
-Mature
-Atmospheric
 Choose Your Own Adventure
 Comic Book
-Post-apocalyptic
-Survival
-Quick-Time Events
-Gore
-Action
-Third Person
-Cyberpunk
-Visual Novel
-Pixel Graphics
-LGBTQ+
-Dystopian
-Story Rich
-Simulation
-Point & Click
-Choices Matter
-Female Protagonist
-Memes
-Adventure
-Casual
 Transhumanism
-Life Sim
-2D
-Anime
-Cute
-Funny
-Sci-fi
-Adventure
 Detective
-Story Rich
-Episodic
-Point & Click
-Noir
-Mature
-Comic Book
-Choose Your Own Adventure
-Singleplayer
-Atmospheric
-Mystery
-Dark
-Cinematic
 Well-Written
-Fantasy
-Quick-Time Events
-Great Soundtrack
-Nudity
-Action
-Action
 2D Fighter
-Fast-Paced
-Indie
 Beat 'em up
-Fighting
-Singleplayer
-Addictive
 Martial Arts
-2D
-Casual
-Difficult
 Arcade
-Great Soundtrack
-Epic
-Rhythm
-Mouse only
 Blood
-Gore
-Funny
-Story Rich
-Pixel Graphics
-Great Soundtrack
-Indie
-Cute
-Atmospheric
-Choices Matter
-Adventure
-Singleplayer
-Puzzle
-Multiple Endings
 RPGMaker
-2D
-RPG
-Replay Value
-Surreal
-Casual
-Exploration
-Psychological Horror
-Anime
-Shooter
-Action
-FPS
-Multiplayer
-Team-Based
-First-Person
-Tactical
-Competitive
-PvP
-eSports
-Military
-War
-Strategy
-Moddable
-Difficult
-Singleplayer
-Atmospheric
-Survival
-Simulation
-Sandbox
-Sandbox
-Violent
-Gore
-Simulation
-Physics
-Casual
-Funny
-Indie
-Blood
-Singleplayer
-Building
-2D
-Psychological Horror
-Horror
-Moddable
 Destruction
-Pixel Graphics
-Action
-Multiplayer
 America
-Action
-Pixel Graphics
-Co-op
-2D
-Local Co-Op
-Indie
-Multiplayer
-Shooter
-Side Scroller
-Funny
-Retro
-Gore
-Local Multiplayer
-Comedy
-Adventure
-Arcade
-Casual
-Epic
 Roguevania
-Souls-like
-Pixel Graphics
-Roguelike
-Metroidvania
-Action Roguelike
-2D
-Action
-Difficult
-Roguelite
-Hack and Slash
-Replay Value
-Indie
-Singleplayer
-Procedural Generation
-Great Soundtrack
-Side Scroller
-Adventure
-Perma Death
-RPG
-Choices Matter
 Turn-Based Combat
-Open World
-Story Rich
 Co-op Campaign
-Crafting
 Party-Based RPG
-Multiplayer
-Fantasy
-Character Customization
-PvP
-Isometric
-Moddable
 CRPG
-Strategy
-Turn-Based
 Turn-Based Tactics
-Female Protagonist
-Perma Death
-Free to Play
-2D Fighter
-Funny
-Action
-Fighting
-Gore
-2D
-Indie
-Singleplayer
-Cartoon
-Blood
-Survival
-Violent
-Fast-Paced
-Casual
-Arcade
-Beat 'em up
-Cute
-Difficult
-Co-op
-Story Rich
-Great Soundtrack
-Indie
-Emotional
-Adventure
-RPGMaker
-Singleplayer
-Pixel Graphics
 Interactive Fiction
-RPG
-Romance
-Short
-2D
-Funny
 Psychological
-Retro
 Linear
-Cute
-Casual
-Female Protagonist
-Third-Person Shooter
-Action Roguelike
-Multiplayer
-Action
-Roguelite
-Co-op
 Looter Shooter
 Loot
-Roguelike
-Shooter
-Online Co-Op
-Indie
-Third Person
-Survival
-Difficult
-Singleplayer
 Soundtrack
-Early Access
-Great Soundtrack
-Bullet Hell
-Survival
-Open World
-Exploration
 Underwater
-Crafting
-Base Building
-Singleplayer
-Adventure
-Horror
-First-Person
-Sci-fi
-Sandbox
-Aliens
-Atmospheric
-Early Access
-Action
-Survival Horror
-Indie
-Multiplayer
-Difficult
-Cartoon
-Great Soundtrack
-Co-op
-Hand-drawn
-Local Co-Op
-2D
-Indie
-Retro
 Cartoony
-Multiplayer
-Action
-Bullet Hell
 Shoot 'Em Up
-Side Scroller
-Colorful
-Funny
-Singleplayer
-Atmospheric
-Puzzle
-Indie
-Difficult
-Singleplayer
-Pixel Graphics
-Cute
 Logic
-2D
 Programming
 Sokoban
-Great Soundtrack
-Casual
-Psychological Horror
 Minimalist
-FPS
-Classic
-Action
-Sci-fi
-Singleplayer
-Shooter
-First-Person
-1990's
-Aliens
-Multiplayer
-Story Rich
-Adventure
-Silent Protagonist
-Atmospheric
-Great Soundtrack
-Moddable
-Retro
-Linear
-Difficult
-Gore
-Co-op
-Action
-Multiplayer
-Adventure
-Local Co-Op
-Beat 'em up
-Funny
-Indie
-Online Co-Op
-Comedy
-Hack and Slash
-2D
-RPG
-Local Multiplayer
-Casual
-Controller
-Great Soundtrack
-Fantasy
-Side Scroller
-Action RPG
-Colony Sim
-Base Building
-Survival
-Resource Management
-Building
-Singleplayer
-Simulation
-Management
-2D
-Sandbox
-Strategy
-Space
-Indie
-Sci-fi
-Exploration
-Early Access
-Open World
-Difficult
-Adventure
 Space Sim
-Roguelike
-Space
-Strategy
-Sci-fi
-Indie
-Singleplayer
-Perma Death
-Difficult
-Replay Value
 Real-Time with Pause
-Great Soundtrack
-2D
-Simulation
-Roguelite
-Survival
-Adventure
-Pixel Graphics
-RPG
-Atmospheric
-Casual
-Music
-Rhythm
-Anime
-Cute
-Casual
-Sexual Content
-Indie
-Action
-Female Protagonist
-Great Soundtrack
-Singleplayer
-Funny
-Nudity
-Arcade
-Difficult
-2D
-Colorful
-Beautiful
-Mature
-Multiplayer
-FPS
-Retro
-Horror
-Shooter
 Lovecraftian
-Fast-Paced
-Dark Humor
-First-Person
-1990's
-Old School
-Action
-Great Soundtrack
-Classic
-Level Editor
-Singleplayer
-Atmospheric
 Bullet Time
-PvP
 Arena Shooter
-Blood
-Horror
-First-Person
-Survival Horror
-Atmospheric
-Gore
-Survival
-Psychological Horror
-Singleplayer
-Adventure
-Action
-Dark
-Indie
-Stealth
-Nudity
 Parkour
-Difficult
 3D Vision
-Walking Simulator
-Sci-fi
-Multiplayer
-Free to Play
 Hero Shooter
-Multiplayer
-FPS
-Shooter
-Action
 Class-Based
-Team-Based
-Funny
-First-Person
-Online Co-Op
-Cartoony
-Competitive
 Trading
-Co-op
-Comedy
 Robots
-Tactical
-Cartoon
-Crafting
-Open World
-RPG
-Fantasy
-Adventure
-Moddable
 Dragons
-First-Person
-Action
-Medieval
-Singleplayer
-Magic
-Story Rich
-Great Soundtrack
-Sandbox
 Lore-Rich
-Atmospheric
-Character Customization
-Action RPG
-Third Person
-Epic
-Choose Your Own Adventure
-Funny
-Classic
-Memes
-Multiple Endings
-Comedy
-Point & Click
-Choices Matter
-Singleplayer
-Hand-drawn
-Family Friendly
-2D
-Interactive Fiction
-Old School
 Parody
-Adventure
-Epic
-Casual
-Action
-Indie
-VR
-Rhythm
-Music
-Indie
-Great Soundtrack
-Fast-Paced
-Singleplayer
-Moddable
-First-Person
-Difficult
 Swordplay
-Action
 Sports
-Memes
-Futuristic
-Early Access
-Multiplayer
 Star Wars
 Music-Based Procedural Generation
-Anime
 Tower Defense
-Zombies
-Strategy
-Singleplayer
-Casual
-Comedy
-2D
-Family Friendly
-Great Soundtrack
-Classic
-Funny
-Puzzle
-Cute
-Indie
-Survival
-Addictive
-Tactical
-Touch-Friendly
-Adventure
-Post-apocalyptic
-Indie
 Political
-Simulation
-Point & Click
-Singleplayer
-Dystopian
-Pixel Graphics
-Puzzle
-Retro
-Multiple Endings
-Story Rich
-Atmospheric
-2D
-Great Soundtrack
-Addictive
-Strategy
-Casual
-Adventure
-Replay Value
-Difficult
-Puzzle
-Mystery
-Point & Click
-Atmospheric
-Adventure
-Singleplayer
-Indie
 Hidden Object
-Short
-Horror
-Casual
-First-Person
-Beautiful
-Steampunk
-Dark
-Lovecraftian
-Touch-Friendly
-Psychological Horror
-Story Rich
-Difficult
-Beautiful
-Atmospheric
-Great Soundtrack
-Indie
-Female Protagonist
-Adventure
-Hand-drawn
-Singleplayer
-2D
-Relaxing
-Story Rich
-Puzzle
-Colorful
-Surreal
-Puzzle Platformer
-Casual
-Exploration
-Anime
-Walking Simulator
-Open World
-Action
-Comedy
-Co-op
-Third-Person Shooter
-Funny
-Sandbox
-Third Person
-Character Customization
-Online Co-Op
-Singleplayer
-Great Soundtrack
-Shooter
-Multiplayer
 Crime
-Female Protagonist
-Adventure
-Satire
-RPG
-Zombies
-Difficult
-Great Soundtrack
-Indie
-Fast-Paced
-Arcade
-Addictive
-Rhythm
-Singleplayer
-Score Attack
-Action
-Minimalist
-Music
-2D
-Psychedelic
-Colorful
-Casual
-Replay Value
-Controller
-Puzzle
-Soundtrack
-Bullet Hell
-Action Roguelike
-Roguelike
-Pixel Graphics
-Difficult
-Dungeon Crawler
-Indie
 Twin Stick Shooter
-Local Co-Op
-Action
-Roguelite
-2D
-Singleplayer
-Top-Down
-Multiplayer
-Cute
-Co-op
-Loot
-Shooter
-Funny
-FPS
-Story Rich
-Action
-Singleplayer
-Steampunk
-Atmospheric
-Shooter
-First-Person
 Alternate History
-Beautiful
-Adventure
-Great Soundtrack
-Dystopian
-Sci-fi
-Time Travel
-Fantasy
-Gore
-Linear
-RPG
 Immersive
-Adventure
-Indie
-Cute
-Exploration
-Relaxing
-Pixel Graphics
 Nature
-3D Platformer
-Walking Simulator
-Casual
-Great Soundtrack
-Funny
-Singleplayer
-Female Protagonist
-Short
-Open World
-Family Friendly
 Flight
-Third Person
-Beautiful
-Co-op
-Class-Based
-Multiplayer
-FPS
-Action
-Loot
 PvE
-First-Person
-Looter Shooter
-Shooter
 Combat
-Atmospheric
-Online Co-Op
-Dark
-Procedural Generation
-Action Roguelike
-Sci-fi
-Exploration
-Singleplayer
-Survival
-Anime
-Free to Play
-RPG
-Female Protagonist
-RPGMaker
-Singleplayer
-Great Soundtrack
-Indie
-Story Rich
-Action
-JRPG
-Cute
-2D
-Pixel Graphics
-Fantasy
-Action RPG
-Multiple Endings
-Puzzle
-Casual
-Nudity
-Free to Play
-Action
-Pixel Graphics
-2D
-Multiplayer
-Local Co-Op
-Shooter
-Co-op
-Local Multiplayer
-Indie
-Adventure
-Singleplayer
-Funny
-America
-Side Scroller
-Controller
-Comedy
-Classic
-Open World
-JRPG
-Great Soundtrack
-Anime
-Story Rich
-RPG
-Party-Based RPG
-Singleplayer
-Turn-Based Combat
-Turn-Based Strategy
-Mystery
-Emotional
-Multiple Endings
-Detective
-Colorful
-Adventure
-Strategy
-Dating Sim
-Violent
-Sexual Content
-Visual Novel
-Strategy
 RTS
-Medieval
-Multiplayer
-Classic
-Historical
-Base Building
-City Builder
-Resource Management
-Singleplayer
-Tactical
 Real-Time
-Co-op
-Competitive
-Replay Value
-Remake
-2D
-Isometric
-Action
-Adventure
-Casual
-Adventure
-Visual Novel
-Anime
-Dating Sim
-Romance
-Cute
-Singleplayer
-Story Rich
-Multiple Endings
-Puzzle
-Mystery
-Atmospheric
-Point & Click
-Hidden Object
-Adventure
-Indie
-Horror
-Singleplayer
-Short
-Lovecraftian
-Psychological Horror
-Steampunk
-Story Rich
-First-Person
-Casual
-Dark
-Great Soundtrack
-Story Rich
-Great Soundtrack
-Pixel Graphics
-Indie
-RPGMaker
-Singleplayer
-Adventure
-RPG
-Atmospheric
-Emotional
-Visual Novel
-2D
-Interactive Fiction
-Comedy
-Walking Simulator
-Funny
-Female Protagonist
-Retro
-Horror
-Point & Click
-Co-op
-Puzzle
-Local Co-Op
-Multiplayer
-VR
-Indie
-Difficult
-Local Multiplayer
-Team-Based
-Family Friendly
-First-Person
-Fast-Paced
-Funny
-Simulation
-Action
 Asymmetric VR
-Atmospheric
-Strategy
 Party
 Party Game
-Zombies
-Horror
-Survival Horror
-Online Co-Op
-Parkour
-PvP
-First-Person
-Open World
-PvE
-FPS
-Action
-Gore
-Stealth
-Survival
-Post-apocalyptic
-Story Rich
-Hack and Slash
-Action RPG
-RPG
-Detective
-Indie
-Simulation
-RPG
-Puzzle
-Mystery
-Story Rich
-Singleplayer
-Horror
-Atmospheric
-Point & Click
-2D
-Top-Down
-Atmospheric
-Great Soundtrack
-Metroidvania
-Adventure
-Story Rich
-Singleplayer
-Cute
-Action
-Fantasy
-Difficult
-2D
-Indie
-Puzzle
-Side Scroller
-Open World
-Controller
-Family Friendly
 2.5D
-RPG
-Action
-Metroidvania
-Indie
-Adventure
-Pixel Graphics
-2D
-Female Protagonist
-Anime
-Great Soundtrack
 Faith
-Time Manipulation
-Singleplayer
-Side Scroller
-Cute
-Action-Adventure
-Beat 'em up
-Exploration
-Controller
-Bullet Hell
-Visual Novel
-Story Rich
-Anime
-Time Travel
-Sci-fi
-Great Soundtrack
-Multiple Endings
-Choices Matter
-Science
-Singleplayer
-Adventure
-Atmospheric
-Mystery
-Romance
 Thriller
-Psychological Horror
-Memes
-Dating Sim
-Casual
-Horror
-Stealth
-Ninja
-Indie
-2D
-Action
-Singleplayer
-Side Scroller
-Adventure
-Assassin
-Atmospheric
-Controller
-Replay Value
-Cartoon
-Puzzle
-Dark
-Short
-Story Rich
-Strategy
-Casual
-Action Roguelike
-Roguelike
-Indie
-Replay Value
-Difficult
-Procedural Generation
-Dark
-Action
-Top-Down
-Great Soundtrack
-Addictive
-Singleplayer
-Adventure
-Roguelite
-Survival
-2D
-RPG
-Dungeon Crawler
-Perma Death
-Bullet Hell
-FPS
-Gore
-Action
-Shooter
-Demons
-Great Soundtrack
-First-Person
-Multiplayer
-Singleplayer
-Fast-Paced
-Sci-fi
-Horror
-Classic
-Atmospheric
-Difficult
-Blood
-Remake
-Zombies
-Co-op
-Violent
-Stealth
-Indie
-Puzzle
-2D
-Pixel Graphics
-Comedy
-Singleplayer
-Action
-Strategy
-Noir
-Great Soundtrack
-Funny
-Short
 Hacking
-Level Editor
 GameMaker
-Story Rich
-Adventure
-Sci-fi
-Strategy
-Star Wars
-RTS
-Space
-Sci-fi
-Multiplayer
-Singleplayer
-Moddable
-Tactical
-Mod
-Action
-War
-Great Soundtrack
-Classic
-Grand Strategy
-Simulation
-Co-op
-4X
-Adventure
-Atmospheric
 Tabletop
 Board Game
-Simulation
-Multiplayer
-Sandbox
-Card Game
-Physics
-Casual
-Strategy
-Moddable
-Indie
-VR
-RPG
-Co-op
-Online Co-Op
 Chess
-Singleplayer
-Relaxing
 Gambling
 Strategy RPG
-Rhythm
-Great Soundtrack
-Music
-Bullet Hell
-Indie
-Difficult
-Action
-2D
-Multiplayer
-Local Multiplayer
-Co-op
-Singleplayer
-Local Co-Op
-Online Co-Op
-Story Rich
 4 Player Local
-Fast-Paced
-Colorful
-Funny
-Strategy
-FPS
-War
-Singleplayer
-Shooter
-Action
-First-Person
-Military
-Early Access
-Funny
-Team-Based
-Indie
-Sandbox
-Strategy
-Physics
-Tactical
-Simulation
-Realistic
-Atmospheric
-Adventure
-Moddable
-Multiplayer
-Funny
-Pixel Graphics
-Local Multiplayer
-Action
-2D
-4 Player Local
-Indie
-Fast-Paced
-Comedy
-Shooter
-Retro
-Competitive
-Great Soundtrack
-Local Co-Op
-Memes
-Co-op
-Casual
-1980s
-Automobile Sim
-Simulation
-Driving
-Open World
-America
-Realistic
-Multiplayer
-Singleplayer
-Relaxing
-Moddable
-First-Person
-Exploration
-Economy
-Atmospheric
-Adventure
-Casual
-Indie
-Family Friendly
-Management
-Third Person
-FPS
-Zombies
-Co-op
-Survival
-Horror
-Action
-Multiplayer
-Online Co-Op
-Gore
-Shooter
-Team-Based
-First-Person
-Survival Horror
-Moddable
-Great Soundtrack
-Class-Based
-Singleplayer
-Difficult
-Comedy
-Adventure
-Nudity
-Mature
-Sexual Content
-Anime
-Dating Sim
-Puzzle
-Match 3
-Romance
-Singleplayer
-Cute
-Hentai
-Comedy
-Indie
-Casual
-RPG
-Story Rich
-Strategy
-Memes
-Great Soundtrack
-2D
-Anime
-Sexual Content
-Cute
-Visual Novel
-Nudity
-Dating Sim
-Romance
-Story Rich
-Singleplayer
-Great Soundtrack
-Indie
-Hentai
-2D
-Linear
-Atmospheric
-Comedy
-Cats
-Female Protagonist
-Adventure
-NSFW
-First-Person
-Violent
-Comedy
-Open World
-Sandbox
-Moddable
-Funny
-Dark Humor
-Gore
-FPS
-Action
-Classic
-Singleplayer
-Mature
-Adventure
-Shooter
-Multiplayer
-Satire
-Indie
-Addictive
-Action
 Batman
-Stealth
-Third Person
-Adventure
 Superhero
-Singleplayer
-Open World
-Beat 'em up
-Detective
-Comic Book
-Atmospheric
-Story Rich
-Action-Adventure
-Fighting
-Controller
-Metroidvania
-Puzzle
-3D Vision
-Horror
-Bullet Hell
-Great Soundtrack
-Difficult
-Shoot 'Em Up
-Female Protagonist
-Indie
-Singleplayer
-Faith
-Cute
-Arcade
-2D
-Fantasy
-Lore-Rich
-Story Rich
 Cult Classic
-Anime
-Action
-Casual
-Family Friendly
-Shooter
-FPS
-Action
-Sci-fi
-Singleplayer
-Shooter
-Story Rich
-First-Person
-Classic
-Adventure
-Aliens
-Atmospheric
-Zombies
-Silent Protagonist
-Great Soundtrack
-Dystopian
-Post-apocalyptic
-Episodic
-Puzzle
-Horror
-Multiplayer
-Visual Novel
-Story Rich
-Free to Play
-Anime
-Great Soundtrack
-Choices Matter
-Singleplayer
-Mature
-Romance
-Nudity
-Multiple Endings
-2D
-Dating Sim
-Replay Value
-Adventure
-Mystery
-Comedy
-Indie
-Classic
-Casual
-Anime
-Visual Novel
-Mystery
-Detective
-Story Rich
-Great Soundtrack
-Singleplayer
-Psychological Horror
-Adventure
-Horror
 Dark Comedy
-Dark Humor
-Puzzle
-Point & Click
-Funny
-Comedy
-Exploration
-Survival
-Action
-Memes
-Survival
-Open World
-Horror
-Crafting
-Adventure
-Building
-Survival Horror
-First-Person
-Action
-Exploration
-Sandbox
-Atmospheric
-Simulation
-Singleplayer
-Indie
-Realistic
-Gore
-Early Access
-Zombies
-Great Soundtrack
-Indie
-Action
 Narration
-Singleplayer
-RPG
-Hack and Slash
-Story Rich
 Dynamic Narration
-Isometric
-Adventure
-Action RPG
-Fantasy
-Atmospheric
-Colorful
-Post-apocalyptic
-2D
-Music
-Twin Stick Shooter
-Controller
-FPS
-Remake
-Action
-Sci-fi
-First-Person
-Singleplayer
-Shooter
-Classic
-Story Rich
-Atmospheric
-Adventure
-Great Soundtrack
-Zombies
-Aliens
-Early Access
-Multiplayer
-Horror
-Indie
-Mod
-Co-op
-Hentai
-Anime
-Sexual Content
-Nudity
-Cute
-Visual Novel
-Dating Sim
-Story Rich
-Singleplayer
-Casual
-Great Soundtrack
-Romance
-Indie
-Atmospheric
-NSFW
-2D
-Adventure
-Funny
-Replay Value
-Cats
-Difficult
-Precision Platformer
-Great Soundtrack
-Music
-Level Editor
-Rhythm
-2D
-Colorful
-Singleplayer
-Character Customization
-Arcade
-Indie
-Side Scroller
-Action
-Funny
-Family Friendly
-Casual
-Strategy
-Adventure
-Visual Novel
-Detective
-Story Rich
-Great Soundtrack
-Anime
-Adventure
-Mystery
-Singleplayer
-Puzzle
-Funny
-Crime
-Classic
-Point & Click
-Cult Classic
-Comedy
 Conversation
-2D
-Dynamic Narration
-Casual
-Memes
-Casual
-Indie
-Building
-Sandbox
-Simulation
-City Builder
-Early Access
-Atmospheric
-Relaxing
-Singleplayer
-Colorful
-Cute
-Beautiful
-Simulation
-Driving
-Destruction
-Physics
-Automobile Sim
-Realistic
-Racing
-Open World
-Sandbox
-Moddable
-Singleplayer
-Early Access
-First-Person
-Funny
-Third Person
-Multiplayer
-Action
-Adven
+Mystery Dungeon
+Crowdfunded
+Experimental
+Asynchronous Multiplayer
+3D
+Kickstarter
+Real Time Tactics
+Gothic
+Naval
+Pirates
+Stylized
+Character Action Game
+Spectacle fighter
+Philosophical
+Mechs
+Split Screen
+Transportation
+3D Fighter
+Voxel
+World War I
+Dog
+Education
+Unforgiving
+Based On A Novel
+Inventory Management
+Gun Customization
+Time Attack
+MMORPG
+Fishing
