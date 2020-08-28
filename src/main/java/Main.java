@@ -13,27 +13,22 @@ public class Main {
     public static void main(String[] args) throws IOException {
         FileWriter writer = new FileWriter(outputFile);
         String[][] tagScores = new String[301][2]; // 301 unique tags, 2 columns - 1 for the tag and 1 for the score
-        double[] justScores = new double[301];
         Scanner scanner = new Scanner(file1);
+
         int counter = 0; // counter to add tag to array index
 
         while (scanner.hasNextLine() && counter < 301) {// reading through each tag
             String tag = scanner.nextLine();
             tagScores[counter][0] = tag; // first column will be the tag
             tagScores[counter][1] = Double.toString(averageScore(tag)); // second column will be score
-            justScores[counter] = averageScore(tag);
             counter++;
         }
 
-        // testing array sort
-        double[] justScores1 = sort(justScores);
-        for (int i = 0; i < justScores1.length; i++) {
-            System.out.println(justScores1[i]);
-        }
-
-        // writing tag and score data to output file
-        for (int i = 0; i < tagScores.length; i++) {
-            writer.write(tagScores[i][0] + " | " + tagScores[i][1] + "\n");
+        // sort array and write data into output file
+        String[][] data = sort(tagScores);
+        for (int i = 0; i < data.length; i++) {
+            System.out.println(data[i][0] + " | " + data[i][1]);
+            writer.write(data[i][0] + " | " + data[i][1] + "\n");
         }
         writer.close();
 
@@ -49,17 +44,17 @@ public class Main {
 
         // for each line....
         while (scan.hasNextLine()) {
-            line = scan.nextLine();
-            StringTokenizer st = new StringTokenizer(line, ",");
+            line = scan.nextLine(); // store each line of tags
+            StringTokenizer st = new StringTokenizer(line, ","); // tokenize by the commas to match file format
             boolean done = false;
             st.nextToken();
-            int voteCount = Integer.parseInt(st.nextToken().trim());
+            int voteCount = Integer.parseInt(st.nextToken().trim()); // store number of votes for weighted scores
 
             // tokenize each line and iterate through tokens until the tag is found
             while (st.hasMoreTokens() && !done) { // for each word in the line, check if it matches tag, if so add the score to total
                 String word = st.nextToken();
                 if (word.equals(tag)) {
-                    count += voteCount;
+                    count += voteCount; // store total votes to calculate average later
                     total += Double.parseDouble(line.substring(0,4)) * voteCount; // add the score given (first 3 characters) to total
                     done = true;
                 }
@@ -69,13 +64,20 @@ public class Main {
         return average;
     }
 
-    public static double[] sort(double[] data) { // sorting algorithm
+    public static String[][] sort(String[][] data) { // sorting algorithm
         for (int i = 0; i < data.length - 1; i++) {
             for (int j = 0; j < data.length - i - 1; j++) {
-                if (data[j] < data[j + 1]) {
-                    double temp = data[j];
-                    data[j] = data[j + 1];
-                    data[j + 1] = temp;
+                // testing for larger values to float to the top for sorting
+                if (Double.parseDouble(data[j][1]) < Double.parseDouble(data[j + 1][1])) {
+                    // store both temporary tag and score
+                    double tempDouble = Double.parseDouble(data[j][1]);
+                    String tempString = data[j][0];
+
+                    // do bubble swap
+                    data[j][1] = data[j + 1][1];
+                    data[j][0] = data[j + 1][0];
+                    data[j + 1][1] = Double.toString(tempDouble);
+                    data[j + 1][0] = tempString;
                 }
             }
         }
